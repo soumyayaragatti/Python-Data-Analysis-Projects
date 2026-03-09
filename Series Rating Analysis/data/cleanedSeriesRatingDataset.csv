@@ -1,0 +1,2542 @@
+Series_Title,Genre,Rating,No_of_Votes,Weighted Rating,Rating Anomalies
+The Shawshank Redemption,Drama,9.3,2343110,21790923.0,Yes
+The Godfather,Crime,9.2,1620367,14907376.399999999,Yes
+The Godfather,Drama,9.2,1620367,14907376.399999999,Yes
+The Dark Knight,Action,9.0,2303232,20729088.0,Yes
+The Dark Knight,Crime,9.0,2303232,20729088.0,Yes
+The Dark Knight,Drama,9.0,2303232,20729088.0,Yes
+The Godfather: Part II,Crime,9.0,1129952,10169568.0,Yes
+The Godfather: Part II,Drama,9.0,1129952,10169568.0,Yes
+12 Angry Men,Crime,9.0,689845,6208605.0,Yes
+12 Angry Men,Drama,9.0,689845,6208605.0,Yes
+The Lord of the Rings: The Return of the King,Action,8.9,1642758,14620546.200000001,Yes
+The Lord of the Rings: The Return of the King,Adventure,8.9,1642758,14620546.200000001,Yes
+The Lord of the Rings: The Return of the King,Drama,8.9,1642758,14620546.200000001,Yes
+Pulp Fiction,Crime,8.9,1826188,16253073.200000001,Yes
+Pulp Fiction,Drama,8.9,1826188,16253073.200000001,Yes
+Schindler's List,Biography,8.9,1213505,10800194.5,Yes
+Schindler's List,Drama,8.9,1213505,10800194.5,Yes
+Schindler's List,History,8.9,1213505,10800194.5,Yes
+Inception,Action,8.8,2067042,18189969.6,Yes
+Inception,Adventure,8.8,2067042,18189969.6,Yes
+Inception,Sci-Fi,8.8,2067042,18189969.6,Yes
+Fight Club,Drama,8.8,1854740,16321712.000000002,Yes
+The Lord of the Rings: The Fellowship of the Ring,Action,8.8,1661481,14621032.8,Yes
+The Lord of the Rings: The Fellowship of the Ring,Adventure,8.8,1661481,14621032.8,Yes
+The Lord of the Rings: The Fellowship of the Ring,Drama,8.8,1661481,14621032.8,Yes
+Forrest Gump,Drama,8.8,1809221,15921144.8,Yes
+Forrest Gump,Romance,8.8,1809221,15921144.8,Yes
+"Il buono, il brutto, il cattivo",Western,8.8,688390,6057832.000000001,Yes
+The Lord of the Rings: The Two Towers,Action,8.7,1485555,12924328.499999998,Yes
+The Lord of the Rings: The Two Towers,Adventure,8.7,1485555,12924328.499999998,Yes
+The Lord of the Rings: The Two Towers,Drama,8.7,1485555,12924328.499999998,Yes
+The Matrix,Action,8.7,1676426,14584906.2,Yes
+The Matrix,Sci-Fi,8.7,1676426,14584906.2,Yes
+Goodfellas,Biography,8.7,1020727,8880324.899999999,Yes
+Goodfellas,Crime,8.7,1020727,8880324.899999999,Yes
+Goodfellas,Drama,8.7,1020727,8880324.899999999,Yes
+Star Wars: Episode V - The Empire Strikes Back,Action,8.7,1159315,10086040.5,Yes
+Star Wars: Episode V - The Empire Strikes Back,Adventure,8.7,1159315,10086040.5,Yes
+Star Wars: Episode V - The Empire Strikes Back,Fantasy,8.7,1159315,10086040.5,Yes
+One Flew Over the Cuckoo's Nest,Drama,8.7,918088,7987365.6,Yes
+Hamilton,Biography,8.6,55291,475502.6,Yes
+Hamilton,Drama,8.6,55291,475502.6,Yes
+Hamilton,History,8.6,55291,475502.6,Yes
+Gisaengchung,Comedy,8.6,552778,4753890.8,Yes
+Gisaengchung,Drama,8.6,552778,4753890.8,Yes
+Gisaengchung,Thriller,8.6,552778,4753890.8,Yes
+Soorarai Pottru,Drama,8.6,54995,472957.0,Yes
+Interstellar,Adventure,8.6,1512360,13006296.0,Yes
+Interstellar,Drama,8.6,1512360,13006296.0,Yes
+Interstellar,Sci-Fi,8.6,1512360,13006296.0,Yes
+Cidade de Deus,Crime,8.6,699256,6013601.6,Yes
+Cidade de Deus,Drama,8.6,699256,6013601.6,Yes
+Sen to Chihiro no kamikakushi,Animation,8.6,651376,5601833.6,Yes
+Sen to Chihiro no kamikakushi,Adventure,8.6,651376,5601833.6,Yes
+Sen to Chihiro no kamikakushi,Family,8.6,651376,5601833.6,Yes
+Saving Private Ryan,Drama,8.6,1235804,10627914.4,Yes
+Saving Private Ryan,War,8.6,1235804,10627914.4,Yes
+The Green Mile,Crime,8.6,1147794,9871028.4,Yes
+The Green Mile,Drama,8.6,1147794,9871028.4,Yes
+The Green Mile,Fantasy,8.6,1147794,9871028.4,Yes
+La vita è bella,Comedy,8.6,623629,5363209.399999999,Yes
+La vita è bella,Drama,8.6,623629,5363209.399999999,Yes
+La vita è bella,Romance,8.6,623629,5363209.399999999,Yes
+Se7en,Crime,8.6,1445096,12427825.6,Yes
+Se7en,Drama,8.6,1445096,12427825.6,Yes
+Se7en,Mystery,8.6,1445096,12427825.6,Yes
+The Silence of the Lambs,Crime,8.6,1270197,10923694.2,Yes
+The Silence of the Lambs,Drama,8.6,1270197,10923694.2,Yes
+The Silence of the Lambs,Thriller,8.6,1270197,10923694.2,Yes
+Star Wars,Action,8.6,1231473,10590667.799999999,Yes
+Star Wars,Adventure,8.6,1231473,10590667.799999999,Yes
+Star Wars,Fantasy,8.6,1231473,10590667.799999999,Yes
+Seppuku,Action,8.6,42004,361234.39999999997,Yes
+Seppuku,Drama,8.6,42004,361234.39999999997,Yes
+Seppuku,Mystery,8.6,42004,361234.39999999997,Yes
+Shichinin no samurai,Action,8.6,315744,2715398.4,Yes
+Shichinin no samurai,Adventure,8.6,315744,2715398.4,Yes
+Shichinin no samurai,Drama,8.6,315744,2715398.4,Yes
+It's a Wonderful Life,Drama,8.6,405801,3489888.5999999996,Yes
+It's a Wonderful Life,Family,8.6,405801,3489888.5999999996,Yes
+It's a Wonderful Life,Fantasy,8.6,405801,3489888.5999999996,Yes
+Joker,Crime,8.5,939252,7983642.0,Yes
+Joker,Drama,8.5,939252,7983642.0,Yes
+Joker,Thriller,8.5,939252,7983642.0,Yes
+Whiplash,Drama,8.5,717585,6099472.5,Yes
+Whiplash,Music,8.5,717585,6099472.5,Yes
+The Intouchables,Biography,8.5,760360,6463060.0,Yes
+The Intouchables,Comedy,8.5,760360,6463060.0,Yes
+The Intouchables,Drama,8.5,760360,6463060.0,Yes
+The Prestige,Drama,8.5,1190259,10117201.5,Yes
+The Prestige,Mystery,8.5,1190259,10117201.5,Yes
+The Prestige,Sci-Fi,8.5,1190259,10117201.5,Yes
+The Departed,Crime,8.5,1189773,10113070.5,Yes
+The Departed,Drama,8.5,1189773,10113070.5,Yes
+The Departed,Thriller,8.5,1189773,10113070.5,Yes
+The Pianist,Biography,8.5,729603,6201625.5,Yes
+The Pianist,Drama,8.5,729603,6201625.5,Yes
+The Pianist,Music,8.5,729603,6201625.5,Yes
+Gladiator,Action,8.5,1341460,11402410.0,Yes
+Gladiator,Adventure,8.5,1341460,11402410.0,Yes
+Gladiator,Drama,8.5,1341460,11402410.0,Yes
+American History X,Drama,8.5,1034705,8794992.5,Yes
+The Usual Suspects,Crime,8.5,991208,8425268.0,Yes
+The Usual Suspects,Mystery,8.5,991208,8425268.0,Yes
+The Usual Suspects,Thriller,8.5,991208,8425268.0,Yes
+Léon,Action,8.5,1035236,8799506.0,Yes
+Léon,Crime,8.5,1035236,8799506.0,Yes
+Léon,Drama,8.5,1035236,8799506.0,Yes
+The Lion King,Animation,8.5,942045,8007382.5,Yes
+The Lion King,Adventure,8.5,942045,8007382.5,Yes
+The Lion King,Drama,8.5,942045,8007382.5,Yes
+Terminator 2: Judgment Day,Action,8.5,995506,8461801.0,Yes
+Terminator 2: Judgment Day,Sci-Fi,8.5,995506,8461801.0,Yes
+Nuovo Cinema Paradiso,Drama,8.5,230763,1961485.5,Yes
+Nuovo Cinema Paradiso,Romance,8.5,230763,1961485.5,Yes
+Hotaru no haka,Animation,8.5,235231,1999463.5,Yes
+Hotaru no haka,Drama,8.5,235231,1999463.5,Yes
+Hotaru no haka,War,8.5,235231,1999463.5,Yes
+Back to the Future,Adventure,8.5,1058081,8993688.5,Yes
+Back to the Future,Comedy,8.5,1058081,8993688.5,Yes
+Back to the Future,Sci-Fi,8.5,1058081,8993688.5,Yes
+Once Upon a Time in the West,Western,8.5,302844,2574174.0,Yes
+Psycho,Horror,8.5,604211,5135793.5,Yes
+Psycho,Mystery,8.5,604211,5135793.5,Yes
+Psycho,Thriller,8.5,604211,5135793.5,Yes
+Casablanca,Drama,8.5,522093,4437790.5,Yes
+Casablanca,Romance,8.5,522093,4437790.5,Yes
+Casablanca,War,8.5,522093,4437790.5,Yes
+Modern Times,Comedy,8.5,217881,1851988.5,Yes
+Modern Times,Drama,8.5,217881,1851988.5,Yes
+Modern Times,Family,8.5,217881,1851988.5,Yes
+City Lights,Comedy,8.5,167839,1426631.5,Yes
+City Lights,Drama,8.5,167839,1426631.5,Yes
+City Lights,Romance,8.5,167839,1426631.5,Yes
+Capharnaüm,Drama,8.4,62635,526134.0,No
+Ayla: The Daughter of War,Biography,8.4,34112,286540.8,No
+Ayla: The Daughter of War,Drama,8.4,34112,286540.8,No
+Ayla: The Daughter of War,History,8.4,34112,286540.8,No
+Vikram Vedha,Action,8.4,28401,238568.40000000002,No
+Vikram Vedha,Crime,8.4,28401,238568.40000000002,No
+Vikram Vedha,Drama,8.4,28401,238568.40000000002,No
+Kimi no na wa.,Animation,8.4,194838,1636639.2,No
+Kimi no na wa.,Drama,8.4,194838,1636639.2,No
+Kimi no na wa.,Fantasy,8.4,194838,1636639.2,No
+Dangal,Action,8.4,156479,1314423.6,No
+Dangal,Biography,8.4,156479,1314423.6,No
+Dangal,Drama,8.4,156479,1314423.6,No
+Spider-Man: Into the Spider-Verse,Animation,8.4,375110,3150924.0,No
+Spider-Man: Into the Spider-Verse,Action,8.4,375110,3150924.0,No
+Spider-Man: Into the Spider-Verse,Adventure,8.4,375110,3150924.0,No
+Avengers: Endgame,Action,8.4,809955,6803622.0,No
+Avengers: Endgame,Adventure,8.4,809955,6803622.0,No
+Avengers: Endgame,Drama,8.4,809955,6803622.0,No
+Avengers: Infinity War,Action,8.4,834477,7009606.800000001,No
+Avengers: Infinity War,Adventure,8.4,834477,7009606.800000001,No
+Avengers: Infinity War,Sci-Fi,8.4,834477,7009606.800000001,No
+Coco,Animation,8.4,384171,3227036.4,No
+Coco,Adventure,8.4,384171,3227036.4,No
+Coco,Family,8.4,384171,3227036.4,No
+Django Unchained,Drama,8.4,1357682,11404528.8,No
+Django Unchained,Western,8.4,1357682,11404528.8,No
+The Dark Knight Rises,Action,8.4,1516346,12737306.4,No
+The Dark Knight Rises,Adventure,8.4,1516346,12737306.4,No
+3 Idiots,Comedy,8.4,344445,2893338.0,No
+3 Idiots,Drama,8.4,344445,2893338.0,No
+Taare Zameen Par,Drama,8.4,168895,1418718.0,No
+Taare Zameen Par,Family,8.4,168895,1418718.0,No
+WALL·E,Animation,8.4,999790,8398236.0,No
+WALL·E,Adventure,8.4,999790,8398236.0,No
+WALL·E,Family,8.4,999790,8398236.0,No
+The Lives of Others,Drama,8.4,358685,3012954.0,No
+The Lives of Others,Mystery,8.4,358685,3012954.0,No
+The Lives of Others,Thriller,8.4,358685,3012954.0,No
+Oldeuboi,Action,8.4,515451,4329788.4,No
+Oldeuboi,Drama,8.4,515451,4329788.4,No
+Oldeuboi,Mystery,8.4,515451,4329788.4,No
+Memento,Mystery,8.4,1125712,9455980.8,No
+Memento,Thriller,8.4,1125712,9455980.8,No
+Mononoke-hime,Animation,8.4,343171,2882636.4,No
+Mononoke-hime,Action,8.4,343171,2882636.4,No
+Mononoke-hime,Adventure,8.4,343171,2882636.4,No
+Once Upon a Time in America,Crime,8.4,311365,2615466.0,No
+Once Upon a Time in America,Drama,8.4,311365,2615466.0,No
+Raiders of the Lost Ark,Action,8.4,884112,7426540.800000001,No
+Raiders of the Lost Ark,Adventure,8.4,884112,7426540.800000001,No
+The Shining,Drama,8.4,898237,7545190.800000001,No
+The Shining,Horror,8.4,898237,7545190.800000001,No
+Apocalypse Now,Drama,8.4,606398,5093743.2,No
+Apocalypse Now,Mystery,8.4,606398,5093743.2,No
+Apocalypse Now,War,8.4,606398,5093743.2,No
+Alien,Horror,8.4,787806,6617570.4,No
+Alien,Sci-Fi,8.4,787806,6617570.4,No
+Anand,Drama,8.4,30273,254293.2,No
+Anand,Musical,8.4,30273,254293.2,No
+Tengoku to jigoku,Crime,8.4,34357,288598.8,No
+Tengoku to jigoku,Drama,8.4,34357,288598.8,No
+Tengoku to jigoku,Mystery,8.4,34357,288598.8,No
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Comedy,8.4,450474,3783981.6,No
+Witness for the Prosecution,Crime,8.4,108862,914440.8,No
+Witness for the Prosecution,Drama,8.4,108862,914440.8,No
+Witness for the Prosecution,Mystery,8.4,108862,914440.8,No
+Paths of Glory,Drama,8.4,178092,1495972.8,No
+Paths of Glory,War,8.4,178092,1495972.8,No
+Rear Window,Mystery,8.4,444074,3730221.6,No
+Rear Window,Thriller,8.4,444074,3730221.6,No
+Sunset Blvd.,Drama,8.4,201632,1693708.8,No
+Sunset Blvd.,Film-Noir,8.4,201632,1693708.8,No
+The Great Dictator,Comedy,8.4,203150,1706460.0,No
+The Great Dictator,Drama,8.4,203150,1706460.0,No
+The Great Dictator,War,8.4,203150,1706460.0,No
+1917,Drama,8.3,425844,3534505.2,No
+1917,Thriller,8.3,425844,3534505.2,No
+1917,War,8.3,425844,3534505.2,No
+Tumbbad,Drama,8.3,27793,230681.90000000002,No
+Tumbbad,Fantasy,8.3,27793,230681.90000000002,No
+Tumbbad,Horror,8.3,27793,230681.90000000002,No
+Andhadhun,Crime,8.3,71875,596562.5,No
+Andhadhun,Drama,8.3,71875,596562.5,No
+Andhadhun,Music,8.3,71875,596562.5,No
+Drishyam,Crime,8.3,30722,254992.60000000003,No
+Drishyam,Drama,8.3,30722,254992.60000000003,No
+Drishyam,Thriller,8.3,30722,254992.60000000003,No
+Jagten,Drama,8.3,281623,2337470.9000000004,No
+Jodaeiye Nader az Simin,Drama,8.3,220002,1826016.6,No
+Incendies,Drama,8.3,150023,1245190.9000000001,No
+Incendies,Mystery,8.3,150023,1245190.9000000001,No
+Incendies,War,8.3,150023,1245190.9000000001,No
+Miracle in cell NO.7,Drama,8.3,33935,281660.5,No
+Babam ve Oglum,Drama,8.3,78925,655077.5,No
+Babam ve Oglum,Family,8.3,78925,655077.5,No
+Inglourious Basterds,Adventure,8.3,1267869,10523312.700000001,No
+Inglourious Basterds,Drama,8.3,1267869,10523312.700000001,No
+Inglourious Basterds,War,8.3,1267869,10523312.700000001,No
+Eternal Sunshine of the Spotless Mind,Drama,8.3,911664,7566811.2,No
+Eternal Sunshine of the Spotless Mind,Romance,8.3,911664,7566811.2,No
+Eternal Sunshine of the Spotless Mind,Sci-Fi,8.3,911664,7566811.2,No
+Amélie,Comedy,8.3,703810,5841623.000000001,No
+Amélie,Romance,8.3,703810,5841623.000000001,No
+Snatch,Comedy,8.3,782001,6490608.300000001,No
+Snatch,Crime,8.3,782001,6490608.300000001,No
+Requiem for a Dream,Drama,8.3,766870,6365021.000000001,No
+American Beauty,Drama,8.3,1069738,8878825.4,No
+Good Will Hunting,Drama,8.3,861606,7151329.800000001,No
+Good Will Hunting,Romance,8.3,861606,7151329.800000001,No
+Bacheha-Ye aseman,Drama,8.3,65341,542330.3,No
+Bacheha-Ye aseman,Family,8.3,65341,542330.3,No
+Bacheha-Ye aseman,Sport,8.3,65341,542330.3,No
+Toy Story,Animation,8.3,887429,7365660.7,No
+Toy Story,Adventure,8.3,887429,7365660.7,No
+Toy Story,Comedy,8.3,887429,7365660.7,No
+Braveheart,Biography,8.3,959181,7961202.300000001,No
+Braveheart,Drama,8.3,959181,7961202.300000001,No
+Braveheart,History,8.3,959181,7961202.300000001,No
+Reservoir Dogs,Crime,8.3,918562,7624064.600000001,No
+Reservoir Dogs,Drama,8.3,918562,7624064.600000001,No
+Reservoir Dogs,Thriller,8.3,918562,7624064.600000001,No
+Full Metal Jacket,Drama,8.3,675146,5603711.800000001,No
+Full Metal Jacket,War,8.3,675146,5603711.800000001,No
+Idi i smotri,Drama,8.3,59056,490164.80000000005,No
+Idi i smotri,Thriller,8.3,59056,490164.80000000005,No
+Idi i smotri,War,8.3,59056,490164.80000000005,No
+Aliens,Action,8.3,652719,5417567.7,No
+Aliens,Adventure,8.3,652719,5417567.7,No
+Aliens,Sci-Fi,8.3,652719,5417567.7,No
+Amadeus,Biography,8.3,369007,3062758.1,No
+Amadeus,Drama,8.3,369007,3062758.1,No
+Amadeus,History,8.3,369007,3062758.1,No
+Scarface,Crime,8.3,740911,6149561.300000001,No
+Scarface,Drama,8.3,740911,6149561.300000001,No
+Star Wars: Episode VI - Return of the Jedi,Action,8.3,950470,7888901.000000001,No
+Star Wars: Episode VI - Return of the Jedi,Adventure,8.3,950470,7888901.000000001,No
+Star Wars: Episode VI - Return of the Jedi,Fantasy,8.3,950470,7888901.000000001,No
+Das Boot,Adventure,8.3,231855,1924396.5000000002,No
+Das Boot,Drama,8.3,231855,1924396.5000000002,No
+Das Boot,Thriller,8.3,231855,1924396.5000000002,No
+Taxi Driver,Crime,8.3,724636,6014478.800000001,No
+Taxi Driver,Drama,8.3,724636,6014478.800000001,No
+The Sting,Comedy,8.3,241513,2004557.9000000001,No
+The Sting,Crime,8.3,241513,2004557.9000000001,No
+The Sting,Drama,8.3,241513,2004557.9000000001,No
+A Clockwork Orange,Crime,8.3,757904,6290603.2,No
+A Clockwork Orange,Drama,8.3,757904,6290603.2,No
+A Clockwork Orange,Sci-Fi,8.3,757904,6290603.2,No
+2001: A Space Odyssey,Adventure,8.3,603517,5009191.100000001,No
+2001: A Space Odyssey,Sci-Fi,8.3,603517,5009191.100000001,No
+Per qualche dollaro in più,Western,8.3,232772,1932007.6,No
+Lawrence of Arabia,Adventure,8.3,268085,2225105.5,No
+Lawrence of Arabia,Biography,8.3,268085,2225105.5,No
+Lawrence of Arabia,Drama,8.3,268085,2225105.5,No
+The Apartment,Comedy,8.3,164363,1364212.9000000001,No
+The Apartment,Drama,8.3,164363,1364212.9000000001,No
+The Apartment,Romance,8.3,164363,1364212.9000000001,No
+North by Northwest,Adventure,8.3,299198,2483343.4000000004,No
+North by Northwest,Mystery,8.3,299198,2483343.4000000004,No
+North by Northwest,Thriller,8.3,299198,2483343.4000000004,No
+Vertigo,Mystery,8.3,364368,3024254.4000000004,No
+Vertigo,Romance,8.3,364368,3024254.4000000004,No
+Vertigo,Thriller,8.3,364368,3024254.4000000004,No
+Singin' in the Rain,Comedy,8.3,218957,1817343.1,No
+Singin' in the Rain,Musical,8.3,218957,1817343.1,No
+Singin' in the Rain,Romance,8.3,218957,1817343.1,No
+Ikiru,Drama,8.3,68463,568242.9,No
+Ladri di biciclette,Drama,8.3,146427,1215344.1,No
+Double Indemnity,Crime,8.3,143525,1191257.5,No
+Double Indemnity,Drama,8.3,143525,1191257.5,No
+Double Indemnity,Film-Noir,8.3,143525,1191257.5,No
+Citizen Kane,Drama,8.3,403351,3347813.3000000003,No
+Citizen Kane,Mystery,8.3,403351,3347813.3000000003,No
+M - Eine Stadt sucht einen Mörder,Crime,8.3,143434,1190502.2000000002,No
+M - Eine Stadt sucht einen Mörder,Mystery,8.3,143434,1190502.2000000002,No
+M - Eine Stadt sucht einen Mörder,Thriller,8.3,143434,1190502.2000000002,No
+Metropolis,Drama,8.3,159992,1327933.6,No
+Metropolis,Sci-Fi,8.3,159992,1327933.6,No
+The Kid,Comedy,8.3,113314,940506.2000000001,No
+The Kid,Drama,8.3,113314,940506.2000000001,No
+The Kid,Family,8.3,113314,940506.2000000001,No
+Chhichhore,Comedy,8.2,33893,277922.6,No
+Chhichhore,Drama,8.2,33893,277922.6,No
+Uri: The Surgical Strike,Action,8.2,43444,356240.8,No
+Uri: The Surgical Strike,Drama,8.2,43444,356240.8,No
+Uri: The Surgical Strike,War,8.2,43444,356240.8,No
+K.G.F: Chapter 1,Action,8.2,36680,300776.0,No
+K.G.F: Chapter 1,Drama,8.2,36680,300776.0,No
+Green Book,Biography,8.2,377884,3098648.8,No
+Green Book,Comedy,8.2,377884,3098648.8,No
+Green Book,Drama,8.2,377884,3098648.8,No
+"Three Billboards Outside Ebbing, Missouri",Comedy,8.2,432610,3547401.9999999995,No
+"Three Billboards Outside Ebbing, Missouri",Crime,8.2,432610,3547401.9999999995,No
+"Three Billboards Outside Ebbing, Missouri",Drama,8.2,432610,3547401.9999999995,No
+Talvar,Crime,8.2,31142,255364.39999999997,No
+Talvar,Drama,8.2,31142,255364.39999999997,No
+Talvar,Mystery,8.2,31142,255364.39999999997,No
+Baahubali 2: The Conclusion,Action,8.2,75348,617853.6,No
+Baahubali 2: The Conclusion,Drama,8.2,75348,617853.6,No
+Klaus,Animation,8.2,104761,859040.2,No
+Klaus,Adventure,8.2,104761,859040.2,No
+Klaus,Comedy,8.2,104761,859040.2,No
+Drishyam,Crime,8.2,70367,577009.3999999999,No
+Drishyam,Drama,8.2,70367,577009.3999999999,No
+Drishyam,Mystery,8.2,70367,577009.3999999999,No
+Queen,Adventure,8.2,60701,497748.19999999995,No
+Queen,Comedy,8.2,60701,497748.19999999995,No
+Queen,Drama,8.2,60701,497748.19999999995,No
+Mandariinid,Drama,8.2,40382,331132.39999999997,No
+Mandariinid,War,8.2,40382,331132.39999999997,No
+Bhaag Milkha Bhaag,Biography,8.2,61137,501323.39999999997,No
+Bhaag Milkha Bhaag,Drama,8.2,61137,501323.39999999997,No
+Bhaag Milkha Bhaag,Sport,8.2,61137,501323.39999999997,No
+Gangs of Wasseypur,Action,8.2,82365,675392.9999999999,No
+Gangs of Wasseypur,Comedy,8.2,82365,675392.9999999999,No
+Gangs of Wasseypur,Crime,8.2,82365,675392.9999999999,No
+Udaan,Drama,8.2,42341,347196.19999999995,No
+Paan Singh Tomar,Action,8.2,33237,272543.39999999997,No
+Paan Singh Tomar,Biography,8.2,33237,272543.39999999997,No
+Paan Singh Tomar,Crime,8.2,33237,272543.39999999997,No
+El secreto de sus ojos,Drama,8.2,193217,1584379.4,No
+El secreto de sus ojos,Mystery,8.2,193217,1584379.4,No
+El secreto de sus ojos,Romance,8.2,193217,1584379.4,No
+Warrior,Action,8.2,435950,3574789.9999999995,No
+Warrior,Drama,8.2,435950,3574789.9999999995,No
+Warrior,Sport,8.2,435950,3574789.9999999995,No
+Shutter Island,Mystery,8.2,1129894,9265130.799999999,No
+Shutter Island,Thriller,8.2,1129894,9265130.799999999,No
+Up,Animation,8.2,935507,7671157.399999999,No
+Up,Adventure,8.2,935507,7671157.399999999,No
+Up,Comedy,8.2,935507,7671157.399999999,No
+The Wolf of Wall Street,Biography,8.2,1187498,9737483.6,No
+The Wolf of Wall Street,Crime,8.2,1187498,9737483.6,No
+The Wolf of Wall Street,Drama,8.2,1187498,9737483.6,No
+Chak De! India,Drama,8.2,74129,607857.7999999999,No
+Chak De! India,Family,8.2,74129,607857.7999999999,No
+Chak De! India,Sport,8.2,74129,607857.7999999999,No
+There Will Be Blood,Drama,8.2,517359,4242343.8,No
+Pan's Labyrinth,Drama,8.2,618623,5072708.6,No
+Pan's Labyrinth,Fantasy,8.2,618623,5072708.6,No
+Pan's Labyrinth,War,8.2,618623,5072708.6,No
+Toy Story 3,Animation,8.2,757032,6207662.399999999,No
+Toy Story 3,Adventure,8.2,757032,6207662.399999999,No
+Toy Story 3,Comedy,8.2,757032,6207662.399999999,No
+V for Vendetta,Action,8.2,1032749,8468541.799999999,No
+V for Vendetta,Drama,8.2,1032749,8468541.799999999,No
+V for Vendetta,Sci-Fi,8.2,1032749,8468541.799999999,No
+Rang De Basanti,Comedy,8.2,111937,917883.3999999999,No
+Rang De Basanti,Crime,8.2,111937,917883.3999999999,No
+Rang De Basanti,Drama,8.2,111937,917883.3999999999,No
+Black,Drama,8.2,33354,273502.8,No
+Batman Begins,Action,8.2,1308302,10728076.399999999,No
+Batman Begins,Adventure,8.2,1308302,10728076.399999999,No
+"Swades: We, the People",Drama,8.2,83005,680640.9999999999,No
+Der Untergang,Biography,8.2,331308,2716725.5999999996,No
+Der Untergang,Drama,8.2,331308,2716725.5999999996,No
+Der Untergang,History,8.2,331308,2716725.5999999996,No
+Hauru no ugoku shiro,Animation,8.2,333915,2738102.9999999995,No
+Hauru no ugoku shiro,Adventure,8.2,333915,2738102.9999999995,No
+Hauru no ugoku shiro,Family,8.2,333915,2738102.9999999995,No
+A Beautiful Mind,Biography,8.2,848920,6961143.999999999,No
+A Beautiful Mind,Drama,8.2,848920,6961143.999999999,No
+Hera Pheri,Action,8.2,57057,467867.39999999997,No
+Hera Pheri,Comedy,8.2,57057,467867.39999999997,No
+Hera Pheri,Crime,8.2,57057,467867.39999999997,No
+"Lock, Stock and Two Smoking Barrels",Action,8.2,535216,4388771.199999999,No
+"Lock, Stock and Two Smoking Barrels",Comedy,8.2,535216,4388771.199999999,No
+"Lock, Stock and Two Smoking Barrels",Crime,8.2,535216,4388771.199999999,No
+L.A. Confidential,Crime,8.2,531967,4362129.399999999,No
+L.A. Confidential,Drama,8.2,531967,4362129.399999999,No
+L.A. Confidential,Mystery,8.2,531967,4362129.399999999,No
+Eskiya,Crime,8.2,64118,525767.6,No
+Eskiya,Drama,8.2,64118,525767.6,No
+Eskiya,Thriller,8.2,64118,525767.6,No
+Heat,Crime,8.2,577113,4732326.6,No
+Heat,Drama,8.2,577113,4732326.6,No
+Heat,Thriller,8.2,577113,4732326.6,No
+Casino,Crime,8.2,466276,3823463.1999999997,No
+Casino,Drama,8.2,466276,3823463.1999999997,No
+Andaz Apna Apna,Action,8.2,49300,404259.99999999994,No
+Andaz Apna Apna,Comedy,8.2,49300,404259.99999999994,No
+Andaz Apna Apna,Romance,8.2,49300,404259.99999999994,No
+Unforgiven,Drama,8.2,375935,3082666.9999999995,No
+Unforgiven,Western,8.2,375935,3082666.9999999995,No
+Indiana Jones and the Last Crusade,Action,8.2,692366,5677401.199999999,No
+Indiana Jones and the Last Crusade,Adventure,8.2,692366,5677401.199999999,No
+Dom za vesanje,Comedy,8.2,26402,216496.4,No
+Dom za vesanje,Crime,8.2,26402,216496.4,No
+Dom za vesanje,Drama,8.2,26402,216496.4,No
+Tonari no Totoro,Animation,8.2,291180,2387676.0,No
+Tonari no Totoro,Family,8.2,291180,2387676.0,No
+Tonari no Totoro,Fantasy,8.2,291180,2387676.0,No
+Die Hard,Action,8.2,793164,6503944.8,No
+Die Hard,Thriller,8.2,793164,6503944.8,No
+Ran,Action,8.2,112505,922540.9999999999,No
+Ran,Drama,8.2,112505,922540.9999999999,No
+Ran,War,8.2,112505,922540.9999999999,No
+Raging Bull,Biography,8.2,321860,2639252.0,No
+Raging Bull,Drama,8.2,321860,2639252.0,No
+Raging Bull,Sport,8.2,321860,2639252.0,No
+Stalker,Drama,8.2,116945,958948.9999999999,No
+Stalker,Sci-Fi,8.2,116945,958948.9999999999,No
+Höstsonaten,Drama,8.2,26875,220374.99999999997,No
+Höstsonaten,Music,8.2,26875,220374.99999999997,No
+The Message,Biography,8.2,43885,359856.99999999994,No
+The Message,Drama,8.2,43885,359856.99999999994,No
+The Message,History,8.2,43885,359856.99999999994,No
+Sholay,Action,8.2,51284,420528.8,No
+Sholay,Adventure,8.2,51284,420528.8,No
+Sholay,Comedy,8.2,51284,420528.8,No
+Monty Python and the Holy Grail,Adventure,8.2,500875,4107174.9999999995,No
+Monty Python and the Holy Grail,Comedy,8.2,500875,4107174.9999999995,No
+Monty Python and the Holy Grail,Fantasy,8.2,500875,4107174.9999999995,No
+The Great Escape,Adventure,8.2,224730,1842785.9999999998,No
+The Great Escape,Drama,8.2,224730,1842785.9999999998,No
+The Great Escape,History,8.2,224730,1842785.9999999998,No
+To Kill a Mockingbird,Crime,8.2,293811,2409250.1999999997,No
+To Kill a Mockingbird,Drama,8.2,293811,2409250.1999999997,No
+Yôjinbô,Action,8.2,111244,912200.7999999999,No
+Yôjinbô,Drama,8.2,111244,912200.7999999999,No
+Yôjinbô,Thriller,8.2,111244,912200.7999999999,No
+Judgment at Nuremberg,Drama,8.2,69458,569555.6,No
+Judgment at Nuremberg,War,8.2,69458,569555.6,No
+Some Like It Hot,Comedy,8.2,243943,2000332.5999999999,No
+Some Like It Hot,Music,8.2,243943,2000332.5999999999,No
+Some Like It Hot,Romance,8.2,243943,2000332.5999999999,No
+Smultronstället,Drama,8.2,96381,790324.2,No
+Smultronstället,Romance,8.2,96381,790324.2,No
+Det sjunde inseglet,Drama,8.2,164939,1352499.7999999998,No
+Det sjunde inseglet,Fantasy,8.2,164939,1352499.7999999998,No
+Det sjunde inseglet,History,8.2,164939,1352499.7999999998,No
+Du rififi chez les hommes,Crime,8.2,28810,236241.99999999997,No
+Du rififi chez les hommes,Drama,8.2,28810,236241.99999999997,No
+Du rififi chez les hommes,Thriller,8.2,28810,236241.99999999997,No
+Dial M for Murder,Crime,8.2,158335,1298347.0,No
+Dial M for Murder,Thriller,8.2,158335,1298347.0,No
+Tôkyô monogatari,Drama,8.2,53153,435854.6,No
+Rashômon,Crime,8.2,152572,1251090.4,No
+Rashômon,Drama,8.2,152572,1251090.4,No
+Rashômon,Mystery,8.2,152572,1251090.4,No
+All About Eve,Drama,8.2,120539,988419.7999999999,No
+The Treasure of the Sierra Madre,Adventure,8.2,114304,937292.7999999999,No
+The Treasure of the Sierra Madre,Drama,8.2,114304,937292.7999999999,No
+The Treasure of the Sierra Madre,Western,8.2,114304,937292.7999999999,No
+To Be or Not to Be,Comedy,8.2,29915,245302.99999999997,No
+To Be or Not to Be,War,8.2,29915,245302.99999999997,No
+The Gold Rush,Adventure,8.2,101053,828634.6,No
+The Gold Rush,Comedy,8.2,101053,828634.6,No
+The Gold Rush,Drama,8.2,101053,828634.6,No
+Sherlock Jr.,Action,8.2,41985,344276.99999999994,No
+Sherlock Jr.,Comedy,8.2,41985,344276.99999999994,No
+Sherlock Jr.,Romance,8.2,41985,344276.99999999994,No
+Portrait de la jeune fille en feu,Drama,8.1,63134,511385.39999999997,No
+Portrait de la jeune fille en feu,Romance,8.1,63134,511385.39999999997,No
+Pink,Drama,8.1,39216,317649.6,No
+Pink,Thriller,8.1,39216,317649.6,No
+Koe no katachi,Animation,8.1,47708,386434.8,No
+Koe no katachi,Drama,8.1,47708,386434.8,No
+Koe no katachi,Family,8.1,47708,386434.8,No
+Contratiempo,Crime,8.1,141516,1146279.5999999999,No
+Contratiempo,Drama,8.1,141516,1146279.5999999999,No
+Contratiempo,Mystery,8.1,141516,1146279.5999999999,No
+Ah-ga-ssi,Drama,8.1,113649,920556.8999999999,No
+Ah-ga-ssi,Romance,8.1,113649,920556.8999999999,No
+Ah-ga-ssi,Thriller,8.1,113649,920556.8999999999,No
+Mommy,Drama,8.1,50700,410670.0,No
+Haider,Action,8.1,50445,408604.5,No
+Haider,Crime,8.1,50445,408604.5,No
+Haider,Drama,8.1,50445,408604.5,No
+Logan,Action,8.1,647884,5247860.399999999,No
+Logan,Drama,8.1,647884,5247860.399999999,No
+Logan,Sci-Fi,8.1,647884,5247860.399999999,No
+Room,Drama,8.1,371538,3009457.8,No
+Room,Thriller,8.1,371538,3009457.8,No
+Relatos salvajes,Comedy,8.1,177059,1434177.9,No
+Relatos salvajes,Drama,8.1,177059,1434177.9,No
+Relatos salvajes,Thriller,8.1,177059,1434177.9,No
+Soul,Animation,8.1,159171,1289285.0999999999,No
+Soul,Adventure,8.1,159171,1289285.0999999999,No
+Soul,Comedy,8.1,159171,1289285.0999999999,No
+Kis Uykusu,Drama,8.1,46547,377030.7,No
+PK,Comedy,8.1,163061,1320794.0999999999,No
+PK,Drama,8.1,163061,1320794.0999999999,No
+PK,Musical,8.1,163061,1320794.0999999999,No
+OMG: Oh My God!,Comedy,8.1,51739,419085.89999999997,No
+OMG: Oh My God!,Drama,8.1,51739,419085.89999999997,No
+OMG: Oh My God!,Fantasy,8.1,51739,419085.89999999997,No
+The Grand Budapest Hotel,Adventure,8.1,707630,5731803.0,No
+The Grand Budapest Hotel,Comedy,8.1,707630,5731803.0,No
+The Grand Budapest Hotel,Crime,8.1,707630,5731803.0,No
+Gone Girl,Drama,8.1,859695,6963529.5,No
+Gone Girl,Mystery,8.1,859695,6963529.5,No
+Gone Girl,Thriller,8.1,859695,6963529.5,No
+Ôkami kodomo no Ame to Yuki,Animation,8.1,38803,314304.3,No
+Ôkami kodomo no Ame to Yuki,Drama,8.1,38803,314304.3,No
+Ôkami kodomo no Ame to Yuki,Fantasy,8.1,38803,314304.3,No
+Hacksaw Ridge,Biography,8.1,435928,3531016.8,No
+Hacksaw Ridge,Drama,8.1,435928,3531016.8,No
+Hacksaw Ridge,History,8.1,435928,3531016.8,No
+Inside Out,Animation,8.1,616228,4991446.8,No
+Inside Out,Adventure,8.1,616228,4991446.8,No
+Inside Out,Comedy,8.1,616228,4991446.8,No
+Barfi!,Comedy,8.1,75721,613340.1,No
+Barfi!,Drama,8.1,75721,613340.1,No
+Barfi!,Romance,8.1,75721,613340.1,No
+12 Years a Slave,Biography,8.1,640533,5188317.3,No
+12 Years a Slave,Drama,8.1,640533,5188317.3,No
+12 Years a Slave,History,8.1,640533,5188317.3,No
+Rush,Action,8.1,432811,3505769.0999999996,No
+Rush,Biography,8.1,432811,3505769.0999999996,No
+Rush,Drama,8.1,432811,3505769.0999999996,No
+Ford v Ferrari,Action,8.1,291289,2359440.9,No
+Ford v Ferrari,Biography,8.1,291289,2359440.9,No
+Ford v Ferrari,Drama,8.1,291289,2359440.9,No
+Spotlight,Biography,8.1,420316,3404559.5999999996,No
+Spotlight,Crime,8.1,420316,3404559.5999999996,No
+Spotlight,Drama,8.1,420316,3404559.5999999996,No
+Song of the Sea,Animation,8.1,51679,418599.89999999997,No
+Song of the Sea,Adventure,8.1,51679,418599.89999999997,No
+Song of the Sea,Drama,8.1,51679,418599.89999999997,No
+Kahaani,Mystery,8.1,57806,468228.6,No
+Kahaani,Thriller,8.1,57806,468228.6,No
+Zindagi Na Milegi Dobara,Comedy,8.1,67927,550208.7,No
+Zindagi Na Milegi Dobara,Drama,8.1,67927,550208.7,No
+Prisoners,Crime,8.1,601149,4869306.899999999,No
+Prisoners,Drama,8.1,601149,4869306.899999999,No
+Prisoners,Mystery,8.1,601149,4869306.899999999,No
+Mad Max: Fury Road,Action,8.1,882316,7146759.6,No
+Mad Max: Fury Road,Adventure,8.1,882316,7146759.6,No
+Mad Max: Fury Road,Sci-Fi,8.1,882316,7146759.6,No
+A Wednesday,Action,8.1,73891,598517.1,No
+A Wednesday,Crime,8.1,73891,598517.1,No
+A Wednesday,Drama,8.1,73891,598517.1,No
+Gran Torino,Drama,8.1,720450,5835645.0,No
+Harry Potter and the Deathly Hallows: Part 2,Adventure,8.1,764493,6192393.3,No
+Harry Potter and the Deathly Hallows: Part 2,Drama,8.1,764493,6192393.3,No
+Harry Potter and the Deathly Hallows: Part 2,Fantasy,8.1,764493,6192393.3,No
+Okuribito,Drama,8.1,48582,393514.2,No
+Okuribito,Music,8.1,48582,393514.2,No
+Hachi: A Dog's Tale,Biography,8.1,253575,2053957.5,No
+Hachi: A Dog's Tale,Drama,8.1,253575,2053957.5,No
+Hachi: A Dog's Tale,Family,8.1,253575,2053957.5,No
+Mary and Max,Animation,8.1,164462,1332142.2,No
+Mary and Max,Comedy,8.1,164462,1332142.2,No
+Mary and Max,Drama,8.1,164462,1332142.2,No
+How to Train Your Dragon,Animation,8.1,666773,5400861.3,No
+How to Train Your Dragon,Action,8.1,666773,5400861.3,No
+How to Train Your Dragon,Adventure,8.1,666773,5400861.3,No
+Into the Wild,Adventure,8.1,572921,4640660.1,No
+Into the Wild,Biography,8.1,572921,4640660.1,No
+Into the Wild,Drama,8.1,572921,4640660.1,No
+No Country for Old Men,Crime,8.1,856916,6941019.6,No
+No Country for Old Men,Drama,8.1,856916,6941019.6,No
+No Country for Old Men,Thriller,8.1,856916,6941019.6,No
+Lage Raho Munna Bhai,Comedy,8.1,43137,349409.7,No
+Lage Raho Munna Bhai,Drama,8.1,43137,349409.7,No
+Lage Raho Munna Bhai,Romance,8.1,43137,349409.7,No
+Million Dollar Baby,Drama,8.1,635975,5151397.5,No
+Million Dollar Baby,Sport,8.1,635975,5151397.5,No
+Hotel Rwanda,Biography,8.1,334320,2707992.0,No
+Hotel Rwanda,Drama,8.1,334320,2707992.0,No
+Hotel Rwanda,History,8.1,334320,2707992.0,No
+Taegukgi hwinalrimyeo,Action,8.1,37820,306342.0,No
+Taegukgi hwinalrimyeo,Drama,8.1,37820,306342.0,No
+Taegukgi hwinalrimyeo,War,8.1,37820,306342.0,No
+Before Sunset,Drama,8.1,236311,1914119.0999999999,No
+Before Sunset,Romance,8.1,236311,1914119.0999999999,No
+Munna Bhai M.B.B.S.,Comedy,8.1,73992,599335.2,No
+Munna Bhai M.B.B.S.,Drama,8.1,73992,599335.2,No
+Munna Bhai M.B.B.S.,Musical,8.1,73992,599335.2,No
+Salinui chueok,Crime,8.1,139558,1130419.8,No
+Salinui chueok,Drama,8.1,139558,1130419.8,No
+Salinui chueok,Mystery,8.1,139558,1130419.8,No
+Dil Chahta Hai,Comedy,8.1,66803,541104.2999999999,No
+Dil Chahta Hai,Drama,8.1,66803,541104.2999999999,No
+Dil Chahta Hai,Romance,8.1,66803,541104.2999999999,No
+Kill Bill: Vol. 1,Action,8.1,1000639,8105175.899999999,No
+Kill Bill: Vol. 1,Crime,8.1,1000639,8105175.899999999,No
+Kill Bill: Vol. 1,Drama,8.1,1000639,8105175.899999999,No
+Finding Nemo,Animation,8.1,949565,7691476.5,No
+Finding Nemo,Adventure,8.1,949565,7691476.5,No
+Finding Nemo,Comedy,8.1,949565,7691476.5,No
+Catch Me If You Can,Biography,8.1,832846,6746052.6,No
+Catch Me If You Can,Crime,8.1,832846,6746052.6,No
+Catch Me If You Can,Drama,8.1,832846,6746052.6,No
+Amores perros,Drama,8.1,223741,1812302.0999999999,No
+Amores perros,Thriller,8.1,223741,1812302.0999999999,No
+"Monsters, Inc.",Animation,8.1,815505,6605590.5,No
+"Monsters, Inc.",Adventure,8.1,815505,6605590.5,No
+"Monsters, Inc.",Comedy,8.1,815505,6605590.5,No
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",Animation,8.1,38847,314660.7,No
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",Action,8.1,38847,314660.7,No
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",Drama,8.1,38847,314660.7,No
+Lagaan: Once Upon a Time in India,Adventure,8.1,105036,850791.6,No
+Lagaan: Once Upon a Time in India,Drama,8.1,105036,850791.6,No
+Lagaan: Once Upon a Time in India,Musical,8.1,105036,850791.6,No
+The Sixth Sense,Drama,8.1,911573,7383741.3,No
+The Sixth Sense,Mystery,8.1,911573,7383741.3,No
+The Sixth Sense,Thriller,8.1,911573,7383741.3,No
+La leggenda del pianista sull'oceano,Drama,8.1,59020,478062.0,No
+La leggenda del pianista sull'oceano,Music,8.1,59020,478062.0,No
+La leggenda del pianista sull'oceano,Romance,8.1,59020,478062.0,No
+The Truman Show,Comedy,8.1,939631,7611011.1,No
+The Truman Show,Drama,8.1,939631,7611011.1,No
+"Crna macka, beli macor",Comedy,8.1,50862,411982.19999999995,No
+"Crna macka, beli macor",Crime,8.1,50862,411982.19999999995,No
+"Crna macka, beli macor",Romance,8.1,50862,411982.19999999995,No
+The Big Lebowski,Comedy,8.1,732620,5934222.0,No
+The Big Lebowski,Crime,8.1,732620,5934222.0,No
+The Big Lebowski,Sport,8.1,732620,5934222.0,No
+Fa yeung nin wah,Drama,8.1,124383,1007502.2999999999,No
+Fa yeung nin wah,Romance,8.1,124383,1007502.2999999999,No
+Trainspotting,Drama,8.1,634716,5141199.6,No
+Fargo,Crime,8.1,617444,5001296.399999999,No
+Fargo,Drama,8.1,617444,5001296.399999999,No
+Fargo,Thriller,8.1,617444,5001296.399999999,No
+Underground,Comedy,8.1,55220,447282.0,No
+Underground,Drama,8.1,55220,447282.0,No
+Underground,War,8.1,55220,447282.0,No
+La haine,Crime,8.1,150345,1217794.5,No
+La haine,Drama,8.1,150345,1217794.5,No
+Dilwale Dulhania Le Jayenge,Drama,8.1,63516,514479.6,No
+Dilwale Dulhania Le Jayenge,Romance,8.1,63516,514479.6,No
+Before Sunrise,Drama,8.1,272291,2205557.1,No
+Before Sunrise,Romance,8.1,272291,2205557.1,No
+Trois couleurs: Rouge,Drama,8.1,90729,734904.9,No
+Trois couleurs: Rouge,Mystery,8.1,90729,734904.9,No
+Trois couleurs: Rouge,Romance,8.1,90729,734904.9,No
+Chung Hing sam lam,Comedy,8.1,63122,511288.19999999995,No
+Chung Hing sam lam,Crime,8.1,63122,511288.19999999995,No
+Chung Hing sam lam,Drama,8.1,63122,511288.19999999995,No
+Jurassic Park,Action,8.1,867615,7027681.5,No
+Jurassic Park,Adventure,8.1,867615,7027681.5,No
+Jurassic Park,Sci-Fi,8.1,867615,7027681.5,No
+In the Name of the Father,Biography,8.1,156842,1270420.2,No
+In the Name of the Father,Crime,8.1,156842,1270420.2,No
+In the Name of the Father,Drama,8.1,156842,1270420.2,No
+Ba wang bie ji,Drama,8.1,25088,203212.8,No
+Ba wang bie ji,Music,8.1,25088,203212.8,No
+Ba wang bie ji,Romance,8.1,25088,203212.8,No
+Dà hóng denglong gaogao guà,Drama,8.1,29662,240262.19999999998,No
+Dà hóng denglong gaogao guà,History,8.1,29662,240262.19999999998,No
+Dà hóng denglong gaogao guà,Romance,8.1,29662,240262.19999999998,No
+Dead Poets Society,Comedy,8.1,425457,3446201.6999999997,No
+Dead Poets Society,Drama,8.1,425457,3446201.6999999997,No
+Stand by Me,Adventure,8.1,363401,2943548.1,No
+Stand by Me,Drama,8.1,363401,2943548.1,No
+Platoon,Drama,8.1,381222,3087898.1999999997,No
+Platoon,War,8.1,381222,3087898.1999999997,No
+"Paris, Texas",Drama,8.1,91188,738622.7999999999,No
+Kaze no tani no Naushika,Animation,8.1,150924,1222484.4,No
+Kaze no tani no Naushika,Adventure,8.1,150924,1222484.4,No
+Kaze no tani no Naushika,Fantasy,8.1,150924,1222484.4,No
+The Thing,Horror,8.1,371271,3007295.1,No
+The Thing,Mystery,8.1,371271,3007295.1,No
+The Thing,Sci-Fi,8.1,371271,3007295.1,No
+Pink Floyd: The Wall,Drama,8.1,76081,616256.1,No
+Pink Floyd: The Wall,Fantasy,8.1,76081,616256.1,No
+Pink Floyd: The Wall,Music,8.1,76081,616256.1,No
+Fitzcarraldo,Adventure,8.1,31595,255919.5,No
+Fitzcarraldo,Drama,8.1,31595,255919.5,No
+Fanny och Alexander,Drama,8.1,57784,468050.39999999997,No
+Blade Runner,Action,8.1,693827,5619998.7,No
+Blade Runner,Sci-Fi,8.1,693827,5619998.7,No
+Blade Runner,Thriller,8.1,693827,5619998.7,No
+The Elephant Man,Biography,8.1,220078,1782631.7999999998,No
+The Elephant Man,Drama,8.1,220078,1782631.7999999998,No
+Life of Brian,Comedy,8.1,367250,2974725.0,No
+The Deer Hunter,Drama,8.1,311361,2522024.1,No
+The Deer Hunter,War,8.1,311361,2522024.1,No
+Rocky,Drama,8.1,518546,4200222.6,No
+Rocky,Sport,8.1,518546,4200222.6,No
+Network,Drama,8.1,144911,1173779.0999999999,No
+Barry Lyndon,Adventure,8.1,149843,1213728.3,No
+Barry Lyndon,Drama,8.1,149843,1213728.3,No
+Barry Lyndon,History,8.1,149843,1213728.3,No
+Zerkalo,Biography,8.1,40081,324656.1,No
+Zerkalo,Drama,8.1,40081,324656.1,No
+Chinatown,Drama,8.1,294230,2383263.0,No
+Chinatown,Mystery,8.1,294230,2383263.0,No
+Chinatown,Thriller,8.1,294230,2383263.0,No
+Paper Moon,Comedy,8.1,42285,342508.5,No
+Paper Moon,Crime,8.1,42285,342508.5,No
+Paper Moon,Drama,8.1,42285,342508.5,No
+Viskningar och rop,Drama,8.1,30206,244668.59999999998,No
+Solaris,Drama,8.1,81021,656270.1,No
+Solaris,Mystery,8.1,81021,656270.1,No
+Solaris,Sci-Fi,8.1,81021,656270.1,No
+Le samouraï,Crime,8.1,45434,368015.39999999997,No
+Le samouraï,Drama,8.1,45434,368015.39999999997,No
+Le samouraï,Mystery,8.1,45434,368015.39999999997,No
+Cool Hand Luke,Crime,8.1,161984,1312070.4,No
+Cool Hand Luke,Drama,8.1,161984,1312070.4,No
+Persona,Drama,8.1,103191,835847.1,No
+Persona,Thriller,8.1,103191,835847.1,No
+Andrei Rublev,Biography,8.1,46947,380270.7,No
+Andrei Rublev,Drama,8.1,46947,380270.7,No
+Andrei Rublev,History,8.1,46947,380270.7,No
+La battaglia di Algeri,Drama,8.1,53089,430020.89999999997,No
+La battaglia di Algeri,War,8.1,53089,430020.89999999997,No
+El ángel exterminador,Drama,8.1,29682,240424.19999999998,No
+El ángel exterminador,Fantasy,8.1,29682,240424.19999999998,No
+What Ever Happened to Baby Jane?,Drama,8.1,50058,405469.8,No
+What Ever Happened to Baby Jane?,Horror,8.1,50058,405469.8,No
+What Ever Happened to Baby Jane?,Thriller,8.1,50058,405469.8,No
+Sanjuro,Action,8.1,33044,267656.39999999997,No
+Sanjuro,Comedy,8.1,33044,267656.39999999997,No
+Sanjuro,Crime,8.1,33044,267656.39999999997,No
+The Man Who Shot Liberty Valance,Drama,8.1,68827,557498.7,No
+The Man Who Shot Liberty Valance,Western,8.1,68827,557498.7,No
+Ivanovo detstvo,Drama,8.1,31728,256996.8,No
+Ivanovo detstvo,War,8.1,31728,256996.8,No
+Jungfrukällan,Drama,8.1,26697,216245.69999999998,No
+Inherit the Wind,Biography,8.1,27254,220757.4,No
+Inherit the Wind,Drama,8.1,27254,220757.4,No
+Inherit the Wind,History,8.1,27254,220757.4,No
+Les quatre cents coups,Crime,8.1,105291,852857.1,No
+Les quatre cents coups,Drama,8.1,105291,852857.1,No
+Ben-Hur,Adventure,8.1,219466,1777674.5999999999,No
+Ben-Hur,Drama,8.1,219466,1777674.5999999999,No
+Ben-Hur,History,8.1,219466,1777674.5999999999,No
+Kakushi-toride no san-akunin,Adventure,8.1,34797,281855.7,No
+Kakushi-toride no san-akunin,Drama,8.1,34797,281855.7,No
+Le notti di Cabiria,Drama,8.1,42940,347814.0,No
+Kumonosu-jô,Drama,8.1,46678,378091.8,No
+Kumonosu-jô,History,8.1,46678,378091.8,No
+The Bridge on the River Kwai,Adventure,8.1,203463,1648050.2999999998,No
+The Bridge on the River Kwai,Drama,8.1,203463,1648050.2999999998,No
+The Bridge on the River Kwai,War,8.1,203463,1648050.2999999998,No
+On the Waterfront,Crime,8.1,142107,1151066.7,No
+On the Waterfront,Drama,8.1,142107,1151066.7,No
+On the Waterfront,Thriller,8.1,142107,1151066.7,No
+Le salaire de la peur,Adventure,8.1,54588,442162.8,No
+Le salaire de la peur,Drama,8.1,54588,442162.8,No
+Le salaire de la peur,Thriller,8.1,54588,442162.8,No
+Ace in the Hole,Drama,8.1,31568,255700.8,No
+Ace in the Hole,Film-Noir,8.1,31568,255700.8,No
+White Heat,Action,8.1,29807,241436.69999999998,No
+White Heat,Crime,8.1,29807,241436.69999999998,No
+White Heat,Drama,8.1,29807,241436.69999999998,No
+The Third Man,Film-Noir,8.1,158731,1285721.0999999999,No
+The Third Man,Mystery,8.1,158731,1285721.0999999999,No
+The Third Man,Thriller,8.1,158731,1285721.0999999999,No
+The Red Shoes,Drama,8.1,30935,250573.5,No
+The Red Shoes,Music,8.1,30935,250573.5,No
+The Red Shoes,Romance,8.1,30935,250573.5,No
+The Shop Around the Corner,Comedy,8.1,28450,230445.0,No
+The Shop Around the Corner,Drama,8.1,28450,230445.0,No
+The Shop Around the Corner,Romance,8.1,28450,230445.0,No
+Rebecca,Drama,8.1,123942,1003930.2,No
+Rebecca,Mystery,8.1,123942,1003930.2,No
+Rebecca,Romance,8.1,123942,1003930.2,No
+Mr. Smith Goes to Washington,Comedy,8.1,107017,866837.7,No
+Mr. Smith Goes to Washington,Drama,8.1,107017,866837.7,No
+Gone with the Wind,Drama,8.1,290074,2349599.4,No
+Gone with the Wind,History,8.1,290074,2349599.4,No
+Gone with the Wind,Romance,8.1,290074,2349599.4,No
+La Grande Illusion,Drama,8.1,33829,274014.89999999997,No
+La Grande Illusion,War,8.1,33829,274014.89999999997,No
+It Happened One Night,Comedy,8.1,94016,761529.6,No
+It Happened One Night,Romance,8.1,94016,761529.6,No
+La passion de Jeanne d'Arc,Biography,8.1,47676,386175.6,No
+La passion de Jeanne d'Arc,Drama,8.1,47676,386175.6,No
+La passion de Jeanne d'Arc,History,8.1,47676,386175.6,No
+The Circus,Comedy,8.1,30205,244660.5,No
+The Circus,Romance,8.1,30205,244660.5,No
+Sunrise: A Song of Two Humans,Drama,8.1,46865,379606.5,No
+Sunrise: A Song of Two Humans,Romance,8.1,46865,379606.5,No
+The General,Action,8.1,81156,657363.6,No
+The General,Adventure,8.1,81156,657363.6,No
+The General,Comedy,8.1,81156,657363.6,No
+Das Cabinet des Dr. Caligari,Fantasy,8.1,57428,465166.8,No
+Das Cabinet des Dr. Caligari,Horror,8.1,57428,465166.8,No
+Das Cabinet des Dr. Caligari,Mystery,8.1,57428,465166.8,No
+Badhaai ho,Comedy,8.0,27978,223824.0,No
+Badhaai ho,Drama,8.0,27978,223824.0,No
+Togo,Adventure,8.0,37556,300448.0,No
+Togo,Biography,8.0,37556,300448.0,No
+Togo,Drama,8.0,37556,300448.0,No
+Airlift,Drama,8.0,52897,423176.0,No
+Airlift,History,8.0,52897,423176.0,No
+Bajrangi Bhaijaan,Action,8.0,72245,577960.0,No
+Bajrangi Bhaijaan,Adventure,8.0,72245,577960.0,No
+Bajrangi Bhaijaan,Comedy,8.0,72245,577960.0,No
+Baby,Action,8.0,52848,422784.0,No
+Baby,Crime,8.0,52848,422784.0,No
+Baby,Thriller,8.0,52848,422784.0,No
+La La Land,Comedy,8.0,505918,4047344.0,No
+La La Land,Drama,8.0,505918,4047344.0,No
+La La Land,Music,8.0,505918,4047344.0,No
+Lion,Biography,8.0,213970,1711760.0,No
+Lion,Drama,8.0,213970,1711760.0,No
+The Martian,Adventure,8.0,760094,6080752.0,No
+The Martian,Drama,8.0,760094,6080752.0,No
+The Martian,Sci-Fi,8.0,760094,6080752.0,No
+Zootopia,Animation,8.0,434143,3473144.0,No
+Zootopia,Adventure,8.0,434143,3473144.0,No
+Zootopia,Comedy,8.0,434143,3473144.0,No
+Bãhubali: The Beginning,Action,8.0,102972,823776.0,No
+Bãhubali: The Beginning,Drama,8.0,102972,823776.0,No
+Kaguyahime no monogatari,Animation,8.0,38746,309968.0,No
+Kaguyahime no monogatari,Adventure,8.0,38746,309968.0,No
+Kaguyahime no monogatari,Drama,8.0,38746,309968.0,No
+Wonder,Drama,8.0,141923,1135384.0,No
+Wonder,Family,8.0,141923,1135384.0,No
+Gully Boy,Drama,8.0,31886,255088.0,No
+Gully Boy,Music,8.0,31886,255088.0,No
+Gully Boy,Romance,8.0,31886,255088.0,No
+Special Chabbis,Crime,8.0,51069,408552.0,No
+Special Chabbis,Drama,8.0,51069,408552.0,No
+Special Chabbis,Thriller,8.0,51069,408552.0,No
+Short Term 12,Drama,8.0,81770,654160.0,No
+Serbuan maut 2: Berandal,Action,8.0,114316,914528.0,No
+Serbuan maut 2: Berandal,Crime,8.0,114316,914528.0,No
+Serbuan maut 2: Berandal,Thriller,8.0,114316,914528.0,No
+The Imitation Game,Biography,8.0,685201,5481608.0,No
+The Imitation Game,Drama,8.0,685201,5481608.0,No
+The Imitation Game,Thriller,8.0,685201,5481608.0,No
+Guardians of the Galaxy,Action,8.0,1043455,8347640.0,No
+Guardians of the Galaxy,Adventure,8.0,1043455,8347640.0,No
+Guardians of the Galaxy,Comedy,8.0,1043455,8347640.0,No
+Blade Runner 2049,Action,8.0,461823,3694584.0,No
+Blade Runner 2049,Drama,8.0,461823,3694584.0,No
+Blade Runner 2049,Mystery,8.0,461823,3694584.0,No
+Her,Drama,8.0,540772,4326176.0,No
+Her,Romance,8.0,540772,4326176.0,No
+Her,Sci-Fi,8.0,540772,4326176.0,No
+Bohemian Rhapsody,Biography,8.0,450349,3602792.0,No
+Bohemian Rhapsody,Drama,8.0,450349,3602792.0,No
+Bohemian Rhapsody,Music,8.0,450349,3602792.0,No
+The Revenant,Action,8.0,705589,5644712.0,No
+The Revenant,Adventure,8.0,705589,5644712.0,No
+The Revenant,Drama,8.0,705589,5644712.0,No
+The Perks of Being a Wallflower,Drama,8.0,462252,3698016.0,No
+The Perks of Being a Wallflower,Romance,8.0,462252,3698016.0,No
+Tropa de Elite 2: O Inimigo Agora é Outro,Action,8.0,79200,633600.0,No
+Tropa de Elite 2: O Inimigo Agora é Outro,Crime,8.0,79200,633600.0,No
+Tropa de Elite 2: O Inimigo Agora é Outro,Drama,8.0,79200,633600.0,No
+The King's Speech,Biography,8.0,639603,5116824.0,No
+The King's Speech,Drama,8.0,639603,5116824.0,No
+The King's Speech,History,8.0,639603,5116824.0,No
+The Help,Drama,8.0,428521,3428168.0,No
+Deadpool,Action,8.0,902669,7221352.0,No
+Deadpool,Adventure,8.0,902669,7221352.0,No
+Deadpool,Comedy,8.0,902669,7221352.0,No
+Darbareye Elly,Drama,8.0,45803,366424.0,No
+Darbareye Elly,Mystery,8.0,45803,366424.0,No
+Dev.D,Drama,8.0,28749,229992.0,No
+Dev.D,Romance,8.0,28749,229992.0,No
+Yip Man,Action,8.0,211427,1691416.0,No
+Yip Man,Biography,8.0,211427,1691416.0,No
+Yip Man,Drama,8.0,211427,1691416.0,No
+My Name Is Khan,Drama,8.0,98575,788600.0,No
+Nefes: Vatan Sagolsun,Action,8.0,31838,254704.0,No
+Nefes: Vatan Sagolsun,Drama,8.0,31838,254704.0,No
+Nefes: Vatan Sagolsun,Thriller,8.0,31838,254704.0,No
+Slumdog Millionaire,Drama,8.0,798882,6391056.0,No
+Slumdog Millionaire,Romance,8.0,798882,6391056.0,No
+Black Swan,Drama,8.0,699673,5597384.0,No
+Black Swan,Thriller,8.0,699673,5597384.0,No
+Tropa de Elite,Action,8.0,98097,784776.0,No
+Tropa de Elite,Crime,8.0,98097,784776.0,No
+Tropa de Elite,Drama,8.0,98097,784776.0,No
+The Avengers,Action,8.0,1260806,10086448.0,No
+The Avengers,Adventure,8.0,1260806,10086448.0,No
+The Avengers,Sci-Fi,8.0,1260806,10086448.0,No
+Persepolis,Animation,8.0,88656,709248.0,No
+Persepolis,Biography,8.0,88656,709248.0,No
+Persepolis,Drama,8.0,88656,709248.0,No
+Dallas Buyers Club,Biography,8.0,441614,3532912.0,No
+Dallas Buyers Club,Drama,8.0,441614,3532912.0,No
+The Pursuit of Happyness,Biography,8.0,448930,3591440.0,No
+The Pursuit of Happyness,Drama,8.0,448930,3591440.0,No
+Blood Diamond,Adventure,8.0,499439,3995512.0,No
+Blood Diamond,Drama,8.0,499439,3995512.0,No
+Blood Diamond,Thriller,8.0,499439,3995512.0,No
+The Bourne Ultimatum,Action,8.0,604694,4837552.0,No
+The Bourne Ultimatum,Mystery,8.0,604694,4837552.0,No
+The Bourne Ultimatum,Thriller,8.0,604694,4837552.0,No
+Bin-jip,Crime,8.0,50610,404880.0,No
+Bin-jip,Drama,8.0,50610,404880.0,No
+Bin-jip,Romance,8.0,50610,404880.0,No
+Sin City,Crime,8.0,738512,5908096.0,No
+Sin City,Thriller,8.0,738512,5908096.0,No
+Le scaphandre et le papillon,Biography,8.0,103284,826272.0,No
+Le scaphandre et le papillon,Drama,8.0,103284,826272.0,No
+G.O.R.A.,Adventure,8.0,56960,455680.0,No
+G.O.R.A.,Comedy,8.0,56960,455680.0,No
+G.O.R.A.,Sci-Fi,8.0,56960,455680.0,No
+Ratatouille,Animation,8.0,641645,5133160.0,No
+Ratatouille,Adventure,8.0,641645,5133160.0,No
+Ratatouille,Comedy,8.0,641645,5133160.0,No
+Casino Royale,Action,8.0,582239,4657912.0,No
+Casino Royale,Adventure,8.0,582239,4657912.0,No
+Casino Royale,Thriller,8.0,582239,4657912.0,No
+Kill Bill: Vol. 2,Action,8.0,683900,5471200.0,No
+Kill Bill: Vol. 2,Crime,8.0,683900,5471200.0,No
+Kill Bill: Vol. 2,Thriller,8.0,683900,5471200.0,No
+Vozvrashchenie,Drama,8.0,42399,339192.0,No
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,Drama,8.0,77520,620160.0,No
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,Romance,8.0,77520,620160.0,No
+Mar adentro,Biography,8.0,77554,620432.0,No
+Mar adentro,Drama,8.0,77554,620432.0,No
+Cinderella Man,Biography,8.0,176151,1409208.0,No
+Cinderella Man,Drama,8.0,176151,1409208.0,No
+Cinderella Man,History,8.0,176151,1409208.0,No
+Kal Ho Naa Ho,Comedy,8.0,63460,507680.0,No
+Kal Ho Naa Ho,Drama,8.0,63460,507680.0,No
+Kal Ho Naa Ho,Musical,8.0,63460,507680.0,No
+Mou gaan dou,Action,8.0,117857,942856.0,No
+Mou gaan dou,Crime,8.0,117857,942856.0,No
+Mou gaan dou,Drama,8.0,117857,942856.0,No
+Pirates of the Caribbean: The Curse of the Black Pearl,Action,8.0,1015122,8120976.0,No
+Pirates of the Caribbean: The Curse of the Black Pearl,Adventure,8.0,1015122,8120976.0,No
+Pirates of the Caribbean: The Curse of the Black Pearl,Fantasy,8.0,1015122,8120976.0,No
+Big Fish,Adventure,8.0,415218,3321744.0,No
+Big Fish,Drama,8.0,415218,3321744.0,No
+Big Fish,Fantasy,8.0,415218,3321744.0,No
+The Incredibles,Animation,8.0,657047,5256376.0,No
+The Incredibles,Action,8.0,657047,5256376.0,No
+The Incredibles,Adventure,8.0,657047,5256376.0,No
+Yeopgijeogin geunyeo,Comedy,8.0,45403,363224.0,No
+Yeopgijeogin geunyeo,Drama,8.0,45403,363224.0,No
+Yeopgijeogin geunyeo,Romance,8.0,45403,363224.0,No
+Dogville,Crime,8.0,137963,1103704.0,No
+Dogville,Drama,8.0,137963,1103704.0,No
+Vizontele,Comedy,8.0,33592,268736.0,No
+Vizontele,Drama,8.0,33592,268736.0,No
+Donnie Darko,Drama,8.0,740086,5920688.0,No
+Donnie Darko,Mystery,8.0,740086,5920688.0,No
+Donnie Darko,Sci-Fi,8.0,740086,5920688.0,No
+Magnolia,Drama,8.0,289742,2317936.0,No
+Dancer in the Dark,Crime,8.0,102285,818280.0,No
+Dancer in the Dark,Drama,8.0,102285,818280.0,No
+Dancer in the Dark,Musical,8.0,102285,818280.0,No
+The Straight Story,Biography,8.0,82002,656016.0,No
+The Straight Story,Drama,8.0,82002,656016.0,No
+Pâfekuto burû,Animation,8.0,58192,465536.0,No
+Pâfekuto burû,Crime,8.0,58192,465536.0,No
+Pâfekuto burû,Mystery,8.0,58192,465536.0,No
+Festen,Drama,8.0,78341,626728.0,No
+Central do Brasil,Drama,8.0,36419,291352.0,No
+The Iron Giant,Animation,8.0,172083,1376664.0,No
+The Iron Giant,Action,8.0,172083,1376664.0,No
+The Iron Giant,Adventure,8.0,172083,1376664.0,No
+Knockin' on Heaven's Door,Action,8.0,27721,221768.0,No
+Knockin' on Heaven's Door,Crime,8.0,27721,221768.0,No
+Knockin' on Heaven's Door,Comedy,8.0,27721,221768.0,No
+Sling Blade,Drama,8.0,86838,694704.0,No
+Secrets & Lies,Comedy,8.0,37564,300512.0,No
+Secrets & Lies,Drama,8.0,37564,300512.0,No
+Twelve Monkeys,Mystery,8.0,578443,4627544.0,No
+Twelve Monkeys,Sci-Fi,8.0,578443,4627544.0,No
+Twelve Monkeys,Thriller,8.0,578443,4627544.0,No
+Kôkaku Kidôtai,Animation,8.0,129231,1033848.0,No
+Kôkaku Kidôtai,Action,8.0,129231,1033848.0,No
+Kôkaku Kidôtai,Crime,8.0,129231,1033848.0,No
+The Nightmare Before Christmas,Animation,8.0,300208,2401664.0,No
+The Nightmare Before Christmas,Family,8.0,300208,2401664.0,No
+The Nightmare Before Christmas,Fantasy,8.0,300208,2401664.0,No
+Groundhog Day,Comedy,8.0,577991,4623928.0,No
+Groundhog Day,Fantasy,8.0,577991,4623928.0,No
+Groundhog Day,Romance,8.0,577991,4623928.0,No
+Bound by Honor,Crime,8.0,28825,230600.0,No
+Bound by Honor,Drama,8.0,28825,230600.0,No
+Scent of a Woman,Drama,8.0,263918,2111344.0,No
+Aladdin,Animation,8.0,373845,2990760.0,No
+Aladdin,Adventure,8.0,373845,2990760.0,No
+Aladdin,Comedy,8.0,373845,2990760.0,No
+JFK,Drama,8.0,142110,1136880.0,No
+JFK,History,8.0,142110,1136880.0,No
+JFK,Thriller,8.0,142110,1136880.0,No
+Beauty and the Beast,Animation,8.0,417178,3337424.0,No
+Beauty and the Beast,Family,8.0,417178,3337424.0,No
+Beauty and the Beast,Fantasy,8.0,417178,3337424.0,No
+Dances with Wolves,Adventure,8.0,240266,1922128.0,No
+Dances with Wolves,Drama,8.0,240266,1922128.0,No
+Dances with Wolves,Western,8.0,240266,1922128.0,No
+Do the Right Thing,Comedy,8.0,89429,715432.0,No
+Do the Right Thing,Drama,8.0,89429,715432.0,No
+Rain Man,Drama,8.0,473064,3784512.0,No
+Akira,Animation,8.0,164918,1319344.0,No
+Akira,Action,8.0,164918,1319344.0,No
+Akira,Sci-Fi,8.0,164918,1319344.0,No
+The Princess Bride,Adventure,8.0,393899,3151192.0,No
+The Princess Bride,Family,8.0,393899,3151192.0,No
+The Princess Bride,Fantasy,8.0,393899,3151192.0,No
+Der Himmel über Berlin,Drama,8.0,64722,517776.0,No
+Der Himmel über Berlin,Fantasy,8.0,64722,517776.0,No
+Der Himmel über Berlin,Romance,8.0,64722,517776.0,No
+Au revoir les enfants,Drama,8.0,31163,249304.0,No
+Au revoir les enfants,War,8.0,31163,249304.0,No
+Tenkû no shiro Rapyuta,Animation,8.0,150140,1201120.0,No
+Tenkû no shiro Rapyuta,Adventure,8.0,150140,1201120.0,No
+Tenkû no shiro Rapyuta,Drama,8.0,150140,1201120.0,No
+The Terminator,Action,8.0,799795,6398360.0,No
+The Terminator,Sci-Fi,8.0,799795,6398360.0,No
+Gandhi,Biography,8.0,217664,1741312.0,No
+Gandhi,Drama,8.0,217664,1741312.0,No
+Gandhi,History,8.0,217664,1741312.0,No
+Kagemusha,Drama,8.0,32195,257560.0,No
+Kagemusha,History,8.0,32195,257560.0,No
+Kagemusha,War,8.0,32195,257560.0,No
+Being There,Comedy,8.0,65625,525000.0,No
+Being There,Drama,8.0,65625,525000.0,No
+Annie Hall,Comedy,8.0,251823,2014584.0,No
+Annie Hall,Romance,8.0,251823,2014584.0,No
+Jaws,Adventure,8.0,543388,4347104.0,No
+Jaws,Thriller,8.0,543388,4347104.0,No
+Dog Day Afternoon,Biography,8.0,235652,1885216.0,No
+Dog Day Afternoon,Crime,8.0,235652,1885216.0,No
+Dog Day Afternoon,Drama,8.0,235652,1885216.0,No
+Young Frankenstein,Comedy,8.0,143359,1146872.0,No
+Papillon,Biography,8.0,121627,973016.0,No
+Papillon,Crime,8.0,121627,973016.0,No
+Papillon,Drama,8.0,121627,973016.0,No
+The Exorcist,Horror,8.0,362393,2899144.0,No
+Sleuth,Mystery,8.0,44748,357984.0,No
+Sleuth,Thriller,8.0,44748,357984.0,No
+The Last Picture Show,Drama,8.0,42456,339648.0,No
+The Last Picture Show,Romance,8.0,42456,339648.0,No
+Fiddler on the Roof,Drama,8.0,39491,315928.0,No
+Fiddler on the Roof,Family,8.0,39491,315928.0,No
+Fiddler on the Roof,Musical,8.0,39491,315928.0,No
+Il conformista,Drama,8.0,27067,216536.0,No
+Butch Cassidy and the Sundance Kid,Biography,8.0,201888,1615104.0,No
+Butch Cassidy and the Sundance Kid,Crime,8.0,201888,1615104.0,No
+Butch Cassidy and the Sundance Kid,Drama,8.0,201888,1615104.0,No
+Rosemary's Baby,Drama,8.0,193674,1549392.0,No
+Rosemary's Baby,Horror,8.0,193674,1549392.0,No
+Planet of the Apes,Adventure,8.0,165167,1321336.0,No
+Planet of the Apes,Sci-Fi,8.0,165167,1321336.0,No
+The Graduate,Comedy,8.0,253676,2029408.0,No
+The Graduate,Drama,8.0,253676,2029408.0,No
+The Graduate,Romance,8.0,253676,2029408.0,No
+Who's Afraid of Virginia Woolf?,Drama,8.0,68926,551408.0,No
+The Sound of Music,Biography,8.0,205425,1643400.0,No
+The Sound of Music,Drama,8.0,205425,1643400.0,No
+The Sound of Music,Family,8.0,205425,1643400.0,No
+Doctor Zhivago,Drama,8.0,69903,559224.0,No
+Doctor Zhivago,Romance,8.0,69903,559224.0,No
+Doctor Zhivago,War,8.0,69903,559224.0,No
+Per un pugno di dollari,Action,8.0,198219,1585752.0,No
+Per un pugno di dollari,Drama,8.0,198219,1585752.0,No
+Per un pugno di dollari,Western,8.0,198219,1585752.0,No
+8½,Drama,8.0,108844,870752.0,No
+Vivre sa vie: Film en douze tableaux,Drama,8.0,28057,224456.0,No
+The Hustler,Drama,8.0,75067,600536.0,No
+The Hustler,Sport,8.0,75067,600536.0,No
+La dolce vita,Comedy,8.0,66621,532968.0,No
+La dolce vita,Drama,8.0,66621,532968.0,No
+Rio Bravo,Action,8.0,56305,450440.0,No
+Rio Bravo,Drama,8.0,56305,450440.0,No
+Rio Bravo,Western,8.0,56305,450440.0,No
+Anatomy of a Murder,Crime,8.0,59847,478776.0,No
+Anatomy of a Murder,Drama,8.0,59847,478776.0,No
+Anatomy of a Murder,Mystery,8.0,59847,478776.0,No
+Touch of Evil,Crime,8.0,98431,787448.0,No
+Touch of Evil,Drama,8.0,98431,787448.0,No
+Touch of Evil,Film-Noir,8.0,98431,787448.0,No
+Cat on a Hot Tin Roof,Drama,8.0,45062,360496.0,No
+Sweet Smell of Success,Drama,8.0,28137,225096.0,No
+Sweet Smell of Success,Film-Noir,8.0,28137,225096.0,No
+The Killing,Crime,8.0,81702,653616.0,No
+The Killing,Drama,8.0,81702,653616.0,No
+The Killing,Film-Noir,8.0,81702,653616.0,No
+The Night of the Hunter,Crime,8.0,81980,655840.0,No
+The Night of the Hunter,Drama,8.0,81980,655840.0,No
+The Night of the Hunter,Film-Noir,8.0,81980,655840.0,No
+La Strada,Drama,8.0,58314,466512.0,No
+Les diaboliques,Crime,8.0,61503,492024.0,No
+Les diaboliques,Drama,8.0,61503,492024.0,No
+Les diaboliques,Horror,8.0,61503,492024.0,No
+Stalag 17,Comedy,8.0,51046,408368.0,No
+Stalag 17,Drama,8.0,51046,408368.0,No
+Stalag 17,War,8.0,51046,408368.0,No
+Roman Holiday,Comedy,8.0,127256,1018048.0,No
+Roman Holiday,Romance,8.0,127256,1018048.0,No
+A Streetcar Named Desire,Drama,8.0,99182,793456.0,No
+In a Lonely Place,Drama,8.0,26784,214272.0,No
+In a Lonely Place,Film-Noir,8.0,26784,214272.0,No
+In a Lonely Place,Mystery,8.0,26784,214272.0,No
+Kind Hearts and Coronets,Comedy,8.0,34485,275880.0,No
+Kind Hearts and Coronets,Crime,8.0,34485,275880.0,No
+Rope,Crime,8.0,129783,1038264.0,No
+Rope,Drama,8.0,129783,1038264.0,No
+Rope,Mystery,8.0,129783,1038264.0,No
+Out of the Past,Crime,8.0,32784,262272.0,No
+Out of the Past,Drama,8.0,32784,262272.0,No
+Out of the Past,Film-Noir,8.0,32784,262272.0,No
+Brief Encounter,Drama,8.0,35601,284808.0,No
+Brief Encounter,Romance,8.0,35601,284808.0,No
+Laura,Drama,8.0,42725,341800.0,No
+Laura,Film-Noir,8.0,42725,341800.0,No
+Laura,Mystery,8.0,42725,341800.0,No
+The Best Years of Our Lives,Drama,8.0,57259,458072.0,No
+The Best Years of Our Lives,Romance,8.0,57259,458072.0,No
+The Best Years of Our Lives,War,8.0,57259,458072.0,No
+Arsenic and Old Lace,Comedy,8.0,65101,520808.0,No
+Arsenic and Old Lace,Crime,8.0,65101,520808.0,No
+Arsenic and Old Lace,Thriller,8.0,65101,520808.0,No
+The Maltese Falcon,Film-Noir,8.0,148928,1191424.0,No
+The Maltese Falcon,Mystery,8.0,148928,1191424.0,No
+The Grapes of Wrath,Drama,8.0,85559,684472.0,No
+The Grapes of Wrath,History,8.0,85559,684472.0,No
+The Wizard of Oz,Adventure,8.0,371379,2971032.0,No
+The Wizard of Oz,Family,8.0,371379,2971032.0,No
+The Wizard of Oz,Fantasy,8.0,371379,2971032.0,No
+La règle du jeu,Comedy,8.0,26725,213800.0,No
+La règle du jeu,Drama,8.0,26725,213800.0,No
+The Thin Man,Comedy,8.0,26642,213136.0,No
+The Thin Man,Crime,8.0,26642,213136.0,No
+The Thin Man,Mystery,8.0,26642,213136.0,No
+All Quiet on the Western Front,Drama,8.0,57318,458544.0,No
+All Quiet on the Western Front,War,8.0,57318,458544.0,No
+Bronenosets Potemkin,Drama,8.0,53054,424432.0,No
+Bronenosets Potemkin,History,8.0,53054,424432.0,No
+Bronenosets Potemkin,Thriller,8.0,53054,424432.0,No
+Knives Out,Comedy,7.9,454203,3588203.7,No
+Knives Out,Crime,7.9,454203,3588203.7,No
+Knives Out,Drama,7.9,454203,3588203.7,No
+Dil Bechara,Comedy,7.9,111478,880676.2000000001,No
+Dil Bechara,Drama,7.9,111478,880676.2000000001,No
+Dil Bechara,Romance,7.9,111478,880676.2000000001,No
+Manbiki kazoku,Crime,7.9,62754,495756.60000000003,No
+Manbiki kazoku,Drama,7.9,62754,495756.60000000003,No
+Marriage Story,Comedy,7.9,246644,1948487.6,No
+Marriage Story,Drama,7.9,246644,1948487.6,No
+Marriage Story,Romance,7.9,246644,1948487.6,No
+Call Me by Your Name,Drama,7.9,212651,1679942.9000000001,No
+Call Me by Your Name,Romance,7.9,212651,1679942.9000000001,No
+"I, Daniel Blake",Drama,7.9,53818,425162.2,No
+Isle of Dogs,Animation,7.9,139114,1099000.6,No
+Isle of Dogs,Adventure,7.9,139114,1099000.6,No
+Isle of Dogs,Comedy,7.9,139114,1099000.6,No
+Hunt for the Wilderpeople,Adventure,7.9,111483,880715.7000000001,No
+Hunt for the Wilderpeople,Comedy,7.9,111483,880715.7000000001,No
+Hunt for the Wilderpeople,Drama,7.9,111483,880715.7000000001,No
+Captain Fantastic,Comedy,7.9,189400,1496260.0,No
+Captain Fantastic,Drama,7.9,189400,1496260.0,No
+Sing Street,Comedy,7.9,85109,672361.1,No
+Sing Street,Drama,7.9,85109,672361.1,No
+Sing Street,Music,7.9,85109,672361.1,No
+Thor: Ragnarok,Action,7.9,587775,4643422.5,No
+Thor: Ragnarok,Adventure,7.9,587775,4643422.5,No
+Thor: Ragnarok,Comedy,7.9,587775,4643422.5,No
+Nightcrawler,Crime,7.9,466134,3682458.6,No
+Nightcrawler,Drama,7.9,466134,3682458.6,No
+Nightcrawler,Thriller,7.9,466134,3682458.6,No
+Jojo Rabbit,Comedy,7.9,297918,2353552.2,No
+Jojo Rabbit,Drama,7.9,297918,2353552.2,No
+Jojo Rabbit,War,7.9,297918,2353552.2,No
+Arrival,Drama,7.9,594181,4694029.9,No
+Arrival,Sci-Fi,7.9,594181,4694029.9,No
+Star Wars: Episode VII - The Force Awakens,Action,7.9,860823,6800501.7,No
+Star Wars: Episode VII - The Force Awakens,Adventure,7.9,860823,6800501.7,No
+Star Wars: Episode VII - The Force Awakens,Sci-Fi,7.9,860823,6800501.7,No
+Before Midnight,Drama,7.9,141457,1117510.3,No
+Before Midnight,Romance,7.9,141457,1117510.3,No
+X-Men: Days of Future Past,Action,7.9,659763,5212127.7,No
+X-Men: Days of Future Past,Adventure,7.9,659763,5212127.7,No
+X-Men: Days of Future Past,Sci-Fi,7.9,659763,5212127.7,No
+Bir Zamanlar Anadolu'da,Crime,7.9,41995,331760.5,No
+Bir Zamanlar Anadolu'da,Drama,7.9,41995,331760.5,No
+The Artist,Comedy,7.9,230624,1821929.6,No
+The Artist,Drama,7.9,230624,1821929.6,No
+The Artist,Romance,7.9,230624,1821929.6,No
+Edge of Tomorrow,Action,7.9,600004,4740031.600000001,No
+Edge of Tomorrow,Adventure,7.9,600004,4740031.600000001,No
+Edge of Tomorrow,Sci-Fi,7.9,600004,4740031.600000001,No
+Amour,Drama,7.9,93090,735411.0,No
+Amour,Romance,7.9,93090,735411.0,No
+The Irishman,Biography,7.9,324720,2565288.0,No
+The Irishman,Crime,7.9,324720,2565288.0,No
+The Irishman,Drama,7.9,324720,2565288.0,No
+Un prophète,Crime,7.9,93560,739124.0,No
+Un prophète,Drama,7.9,93560,739124.0,No
+Moon,Drama,7.9,335152,2647700.8000000003,No
+Moon,Mystery,7.9,335152,2647700.8000000003,No
+Moon,Sci-Fi,7.9,335152,2647700.8000000003,No
+Låt den rätte komma in,Crime,7.9,205609,1624311.1,No
+Låt den rätte komma in,Drama,7.9,205609,1624311.1,No
+Låt den rätte komma in,Fantasy,7.9,205609,1624311.1,No
+District 9,Action,7.9,638202,5041795.8,No
+District 9,Sci-Fi,7.9,638202,5041795.8,No
+District 9,Thriller,7.9,638202,5041795.8,No
+The Wrestler,Drama,7.9,289415,2286378.5,No
+The Wrestler,Sport,7.9,289415,2286378.5,No
+Jab We Met,Comedy,7.9,47720,376988.0,No
+Jab We Met,Drama,7.9,47720,376988.0,No
+Jab We Met,Romance,7.9,47720,376988.0,No
+Boyhood,Drama,7.9,335533,2650710.7,No
+"4 luni, 3 saptamâni si 2 zile",Drama,7.9,56625,447337.5,No
+Star Trek,Action,7.9,577336,4560954.4,No
+Star Trek,Adventure,7.9,577336,4560954.4,No
+Star Trek,Sci-Fi,7.9,577336,4560954.4,No
+In Bruges,Comedy,7.9,390334,3083638.6,No
+In Bruges,Crime,7.9,390334,3083638.6,No
+In Bruges,Drama,7.9,390334,3083638.6,No
+The Man from Earth,Drama,7.9,174125,1375587.5,No
+The Man from Earth,Fantasy,7.9,174125,1375587.5,No
+The Man from Earth,Mystery,7.9,174125,1375587.5,No
+Letters from Iwo Jima,Action,7.9,154011,1216686.9000000001,No
+Letters from Iwo Jima,Adventure,7.9,154011,1216686.9000000001,No
+Letters from Iwo Jima,Drama,7.9,154011,1216686.9000000001,No
+The Fall,Adventure,7.9,107290,847591.0,No
+The Fall,Drama,7.9,107290,847591.0,No
+The Fall,Fantasy,7.9,107290,847591.0,No
+Life of Pi,Adventure,7.9,580708,4587593.2,No
+Life of Pi,Drama,7.9,580708,4587593.2,No
+Life of Pi,Fantasy,7.9,580708,4587593.2,No
+Fantastic Mr. Fox,Animation,7.9,199696,1577598.4000000001,No
+Fantastic Mr. Fox,Adventure,7.9,199696,1577598.4000000001,No
+Fantastic Mr. Fox,Comedy,7.9,199696,1577598.4000000001,No
+C.R.A.Z.Y.,Comedy,7.9,31476,248660.40000000002,No
+C.R.A.Z.Y.,Drama,7.9,31476,248660.40000000002,No
+Les choristes,Drama,7.9,57430,453697.0,No
+Les choristes,Music,7.9,57430,453697.0,No
+Iron Man,Action,7.9,939644,7423187.600000001,No
+Iron Man,Adventure,7.9,939644,7423187.600000001,No
+Iron Man,Sci-Fi,7.9,939644,7423187.600000001,No
+Shaun of the Dead,Comedy,7.9,512249,4046767.1,No
+Shaun of the Dead,Horror,7.9,512249,4046767.1,No
+Gegen die Wand,Drama,7.9,51325,405467.5,No
+Gegen die Wand,Romance,7.9,51325,405467.5,No
+Mystic River,Crime,7.9,419420,3313418.0,No
+Mystic River,Drama,7.9,419420,3313418.0,No
+Mystic River,Mystery,7.9,419420,3313418.0,No
+Harry Potter and the Prisoner of Azkaban,Adventure,7.9,552493,4364694.7,No
+Harry Potter and the Prisoner of Azkaban,Family,7.9,552493,4364694.7,No
+Harry Potter and the Prisoner of Azkaban,Fantasy,7.9,552493,4364694.7,No
+Ying xiong,Action,7.9,173999,1374592.1,No
+Ying xiong,Adventure,7.9,173999,1374592.1,No
+Ying xiong,History,7.9,173999,1374592.1,No
+Hable con ella,Drama,7.9,104691,827058.9,No
+Hable con ella,Mystery,7.9,104691,827058.9,No
+Hable con ella,Romance,7.9,104691,827058.9,No
+No Man's Land,Comedy,7.9,44618,352482.2,No
+No Man's Land,Drama,7.9,44618,352482.2,No
+No Man's Land,War,7.9,44618,352482.2,No
+Cowboy Bebop: Tengoku no tobira,Animation,7.9,42897,338886.3,No
+Cowboy Bebop: Tengoku no tobira,Action,7.9,42897,338886.3,No
+Cowboy Bebop: Tengoku no tobira,Crime,7.9,42897,338886.3,No
+The Bourne Identity,Action,7.9,508771,4019290.9000000004,No
+The Bourne Identity,Mystery,7.9,508771,4019290.9000000004,No
+The Bourne Identity,Thriller,7.9,508771,4019290.9000000004,No
+Nueve reinas,Crime,7.9,49721,392795.9,No
+Nueve reinas,Drama,7.9,49721,392795.9,No
+Nueve reinas,Thriller,7.9,49721,392795.9,No
+Children of Men,Adventure,7.9,465113,3674392.7,No
+Children of Men,Drama,7.9,465113,3674392.7,No
+Children of Men,Sci-Fi,7.9,465113,3674392.7,No
+Almost Famous,Adventure,7.9,252586,1995429.4000000001,No
+Almost Famous,Comedy,7.9,252586,1995429.4000000001,No
+Almost Famous,Drama,7.9,252586,1995429.4000000001,No
+Mulholland Dr.,Drama,7.9,322031,2544044.9,No
+Mulholland Dr.,Mystery,7.9,322031,2544044.9,No
+Mulholland Dr.,Thriller,7.9,322031,2544044.9,No
+Toy Story 2,Animation,7.9,527512,4167344.8000000003,No
+Toy Story 2,Adventure,7.9,527512,4167344.8000000003,No
+Toy Story 2,Comedy,7.9,527512,4167344.8000000003,No
+Boogie Nights,Drama,7.9,239473,1891836.7000000002,No
+Mimi wo sumaseba,Animation,7.9,51943,410349.7,No
+Mimi wo sumaseba,Drama,7.9,51943,410349.7,No
+Mimi wo sumaseba,Family,7.9,51943,410349.7,No
+Once Were Warriors,Crime,7.9,31590,249561.0,No
+Once Were Warriors,Drama,7.9,31590,249561.0,No
+True Romance,Crime,7.9,206918,1634652.2000000002,No
+True Romance,Drama,7.9,206918,1634652.2000000002,No
+True Romance,Romance,7.9,206918,1634652.2000000002,No
+Trois couleurs: Bleu,Drama,7.9,89836,709704.4,No
+Trois couleurs: Bleu,Music,7.9,89836,709704.4,No
+Trois couleurs: Bleu,Mystery,7.9,89836,709704.4,No
+Jûbê ninpûchô,Animation,7.9,34529,272779.10000000003,No
+Jûbê ninpûchô,Action,7.9,34529,272779.10000000003,No
+Jûbê ninpûchô,Adventure,7.9,34529,272779.10000000003,No
+Carlito's Way,Crime,7.9,201000,1587900.0,No
+Carlito's Way,Drama,7.9,201000,1587900.0,No
+Carlito's Way,Thriller,7.9,201000,1587900.0,No
+Edward Scissorhands,Drama,7.9,447368,3534207.2,No
+Edward Scissorhands,Fantasy,7.9,447368,3534207.2,No
+Edward Scissorhands,Romance,7.9,447368,3534207.2,No
+My Left Foot: The Story of Christy Brown,Biography,7.9,68076,537800.4,No
+My Left Foot: The Story of Christy Brown,Drama,7.9,68076,537800.4,No
+Crimes and Misdemeanors,Comedy,7.9,54670,431893.0,No
+Crimes and Misdemeanors,Drama,7.9,54670,431893.0,No
+The Untouchables,Crime,7.9,281842,2226551.8000000003,No
+The Untouchables,Drama,7.9,281842,2226551.8000000003,No
+The Untouchables,Thriller,7.9,281842,2226551.8000000003,No
+Hannah and Her Sisters,Comedy,7.9,67176,530690.4,No
+Hannah and Her Sisters,Drama,7.9,67176,530690.4,No
+Brazil,Drama,7.9,187567,1481779.3,No
+Brazil,Sci-Fi,7.9,187567,1481779.3,No
+This Is Spinal Tap,Comedy,7.9,128812,1017614.8,No
+This Is Spinal Tap,Music,7.9,128812,1017614.8,No
+A Christmas Story,Comedy,7.9,132947,1050281.3,No
+A Christmas Story,Family,7.9,132947,1050281.3,No
+The Blues Brothers,Action,7.9,183182,1447137.8,No
+The Blues Brothers,Adventure,7.9,183182,1447137.8,No
+The Blues Brothers,Comedy,7.9,183182,1447137.8,No
+Manhattan,Comedy,7.9,131436,1038344.4,No
+Manhattan,Drama,7.9,131436,1038344.4,No
+Manhattan,Romance,7.9,131436,1038344.4,No
+All That Jazz,Drama,7.9,28223,222961.7,No
+All That Jazz,Music,7.9,28223,222961.7,No
+All That Jazz,Musical,7.9,28223,222961.7,No
+Dawn of the Dead,Action,7.9,111512,880944.8,No
+Dawn of the Dead,Adventure,7.9,111512,880944.8,No
+Dawn of the Dead,Horror,7.9,111512,880944.8,No
+All the President's Men,Biography,7.9,103031,813944.9,No
+All the President's Men,Drama,7.9,103031,813944.9,No
+All the President's Men,History,7.9,103031,813944.9,No
+La montaña sagrada,Adventure,7.9,37183,293745.7,No
+La montaña sagrada,Drama,7.9,37183,293745.7,No
+La montaña sagrada,Fantasy,7.9,37183,293745.7,No
+Amarcord,Comedy,7.9,39897,315186.3,No
+Amarcord,Drama,7.9,39897,315186.3,No
+Amarcord,Family,7.9,39897,315186.3,No
+Le charme discret de la bourgeoisie,Comedy,7.9,38737,306022.3,No
+"Aguirre, der Zorn Gottes",Action,7.9,52397,413936.30000000005,No
+"Aguirre, der Zorn Gottes",Adventure,7.9,52397,413936.30000000005,No
+"Aguirre, der Zorn Gottes",Biography,7.9,52397,413936.30000000005,No
+Harold and Maude,Comedy,7.9,70826,559525.4,No
+Harold and Maude,Drama,7.9,70826,559525.4,No
+Harold and Maude,Romance,7.9,70826,559525.4,No
+Patton,Biography,7.9,93741,740553.9,No
+Patton,Drama,7.9,93741,740553.9,No
+Patton,War,7.9,93741,740553.9,No
+The Wild Bunch,Action,7.9,77401,611467.9,No
+The Wild Bunch,Adventure,7.9,77401,611467.9,No
+The Wild Bunch,Western,7.9,77401,611467.9,No
+Night of the Living Dead,Horror,7.9,116557,920800.3,No
+Night of the Living Dead,Thriller,7.9,116557,920800.3,No
+The Lion in Winter,Biography,7.9,29003,229123.7,No
+The Lion in Winter,Drama,7.9,29003,229123.7,No
+The Lion in Winter,History,7.9,29003,229123.7,No
+In the Heat of the Night,Crime,7.9,67804,535651.6,No
+In the Heat of the Night,Drama,7.9,67804,535651.6,No
+In the Heat of the Night,Mystery,7.9,67804,535651.6,No
+Charade,Comedy,7.9,68689,542643.1,No
+Charade,Mystery,7.9,68689,542643.1,No
+Charade,Romance,7.9,68689,542643.1,No
+The Manchurian Candidate,Drama,7.9,71122,561863.8,No
+The Manchurian Candidate,Thriller,7.9,71122,561863.8,No
+Spartacus,Adventure,7.9,124339,982278.1000000001,No
+Spartacus,Biography,7.9,124339,982278.1000000001,No
+Spartacus,Drama,7.9,124339,982278.1000000001,No
+L'avventura,Drama,7.9,26542,209681.80000000002,No
+L'avventura,Mystery,7.9,26542,209681.80000000002,No
+Hiroshima mon amour,Drama,7.9,28421,224525.90000000002,No
+Hiroshima mon amour,Romance,7.9,28421,224525.90000000002,No
+The Ten Commandments,Adventure,7.9,63560,502124.0,No
+The Ten Commandments,Drama,7.9,63560,502124.0,No
+The Searchers,Adventure,7.9,80316,634496.4,No
+The Searchers,Drama,7.9,80316,634496.4,No
+The Searchers,Western,7.9,80316,634496.4,No
+East of Eden,Drama,7.9,40313,318472.7,No
+High Noon,Drama,7.9,97222,768053.8,No
+High Noon,Thriller,7.9,97222,768053.8,No
+High Noon,Western,7.9,97222,768053.8,No
+Strangers on a Train,Crime,7.9,123341,974393.9,No
+Strangers on a Train,Film-Noir,7.9,123341,974393.9,No
+Strangers on a Train,Thriller,7.9,123341,974393.9,No
+Harvey,Comedy,7.9,52573,415326.7,No
+Harvey,Drama,7.9,52573,415326.7,No
+Harvey,Fantasy,7.9,52573,415326.7,No
+Miracle on 34th Street,Comedy,7.9,41625,328837.5,No
+Miracle on 34th Street,Drama,7.9,41625,328837.5,No
+Miracle on 34th Street,Family,7.9,41625,328837.5,No
+Notorious,Drama,7.9,92306,729217.4,No
+Notorious,Film-Noir,7.9,92306,729217.4,No
+Notorious,Romance,7.9,92306,729217.4,No
+The Big Sleep,Crime,7.9,78796,622488.4,No
+The Big Sleep,Film-Noir,7.9,78796,622488.4,No
+The Big Sleep,Mystery,7.9,78796,622488.4,No
+The Lost Weekend,Drama,7.9,33549,265037.10000000003,No
+The Lost Weekend,Film-Noir,7.9,33549,265037.10000000003,No
+The Philadelphia Story,Comedy,7.9,63550,502045.0,No
+The Philadelphia Story,Romance,7.9,63550,502045.0,No
+His Girl Friday,Comedy,7.9,53667,423969.30000000005,No
+His Girl Friday,Drama,7.9,53667,423969.30000000005,No
+His Girl Friday,Romance,7.9,53667,423969.30000000005,No
+The Adventures of Robin Hood,Action,7.9,47175,372682.5,No
+The Adventures of Robin Hood,Adventure,7.9,47175,372682.5,No
+The Adventures of Robin Hood,Romance,7.9,47175,372682.5,No
+A Night at the Opera,Comedy,7.9,30580,241582.0,No
+A Night at the Opera,Music,7.9,30580,241582.0,No
+A Night at the Opera,Musical,7.9,30580,241582.0,No
+King Kong,Adventure,7.9,78991,624028.9,No
+King Kong,Horror,7.9,78991,624028.9,No
+King Kong,Sci-Fi,7.9,78991,624028.9,No
+Freaks,Drama,7.9,42117,332724.3,No
+Freaks,Horror,7.9,42117,332724.3,No
+Nosferatu,Fantasy,7.9,88794,701472.6,No
+Nosferatu,Horror,7.9,88794,701472.6,No
+The Gentlemen,Action,7.8,237392,1851657.5999999999,No
+The Gentlemen,Comedy,7.8,237392,1851657.5999999999,No
+The Gentlemen,Crime,7.8,237392,1851657.5999999999,No
+Raazi,Action,7.8,25344,197683.19999999998,No
+Raazi,Drama,7.8,25344,197683.19999999998,No
+Raazi,Thriller,7.8,25344,197683.19999999998,No
+Sound of Metal,Drama,7.8,27187,212058.6,No
+Sound of Metal,Music,7.8,27187,212058.6,No
+Forushande,Drama,7.8,51240,399672.0,No
+Dunkirk,Action,7.8,555092,4329717.6,No
+Dunkirk,Drama,7.8,555092,4329717.6,No
+Dunkirk,History,7.8,555092,4329717.6,No
+Perfetti sconosciuti,Comedy,7.8,57168,445910.39999999997,No
+Perfetti sconosciuti,Drama,7.8,57168,445910.39999999997,No
+Hidden Figures,Biography,7.8,200876,1566832.8,No
+Hidden Figures,Drama,7.8,200876,1566832.8,No
+Hidden Figures,History,7.8,200876,1566832.8,No
+Paddington 2,Adventure,7.8,61594,480433.2,No
+Paddington 2,Comedy,7.8,61594,480433.2,No
+Paddington 2,Family,7.8,61594,480433.2,No
+Udta Punjab,Action,7.8,27175,211965.0,No
+Udta Punjab,Crime,7.8,27175,211965.0,No
+Udta Punjab,Drama,7.8,27175,211965.0,No
+Kubo and the Two Strings,Animation,7.8,118035,920673.0,No
+Kubo and the Two Strings,Action,7.8,118035,920673.0,No
+Kubo and the Two Strings,Adventure,7.8,118035,920673.0,No
+M.S. Dhoni: The Untold Story,Biography,7.8,40416,315244.8,No
+M.S. Dhoni: The Untold Story,Drama,7.8,40416,315244.8,No
+M.S. Dhoni: The Untold Story,Sport,7.8,40416,315244.8,No
+Manchester by the Sea,Drama,7.8,246963,1926311.4,No
+Under sandet,Drama,7.8,35539,277204.2,No
+Under sandet,History,7.8,35539,277204.2,No
+Under sandet,War,7.8,35539,277204.2,No
+Rogue One,Action,7.8,556608,4341542.399999999,No
+Rogue One,Adventure,7.8,556608,4341542.399999999,No
+Rogue One,Sci-Fi,7.8,556608,4341542.399999999,No
+Captain America: Civil War,Action,7.8,663649,5176462.2,No
+Captain America: Civil War,Adventure,7.8,663649,5176462.2,No
+Captain America: Civil War,Sci-Fi,7.8,663649,5176462.2,No
+The Hateful Eight,Crime,7.8,517059,4033060.1999999997,No
+The Hateful Eight,Drama,7.8,517059,4033060.1999999997,No
+The Hateful Eight,Mystery,7.8,517059,4033060.1999999997,No
+Little Women,Drama,7.8,143250,1117350.0,No
+Little Women,Romance,7.8,143250,1117350.0,No
+Loving Vincent,Animation,7.8,50778,396068.39999999997,No
+Loving Vincent,Biography,7.8,50778,396068.39999999997,No
+Loving Vincent,Crime,7.8,50778,396068.39999999997,No
+Pride,Biography,7.8,51841,404359.8,No
+Pride,Comedy,7.8,51841,404359.8,No
+Pride,Drama,7.8,51841,404359.8,No
+Le passé,Drama,7.8,45002,351015.6,No
+Le passé,Mystery,7.8,45002,351015.6,No
+La grande bellezza,Drama,7.8,81125,632775.0,No
+The Lunchbox,Drama,7.8,50523,394079.39999999997,No
+The Lunchbox,Romance,7.8,50523,394079.39999999997,No
+Vicky Donor,Comedy,7.8,39710,309738.0,No
+Vicky Donor,Romance,7.8,39710,309738.0,No
+Big Hero 6,Animation,7.8,410983,3205667.4,No
+Big Hero 6,Action,7.8,410983,3205667.4,No
+Big Hero 6,Adventure,7.8,410983,3205667.4,No
+About Time,Comedy,7.8,303032,2363649.6,No
+About Time,Drama,7.8,303032,2363649.6,No
+About Time,Fantasy,7.8,303032,2363649.6,No
+English Vinglish,Comedy,7.8,33618,262220.39999999997,No
+English Vinglish,Drama,7.8,33618,262220.39999999997,No
+English Vinglish,Family,7.8,33618,262220.39999999997,No
+Kaze tachinu,Animation,7.8,73690,574782.0,No
+Kaze tachinu,Biography,7.8,73690,574782.0,No
+Kaze tachinu,Drama,7.8,73690,574782.0,No
+Toy Story 4,Animation,7.8,203177,1584780.5999999999,No
+Toy Story 4,Adventure,7.8,203177,1584780.5999999999,No
+Toy Story 4,Comedy,7.8,203177,1584780.5999999999,No
+La migliore offerta,Crime,7.8,108399,845512.2,No
+La migliore offerta,Drama,7.8,108399,845512.2,No
+La migliore offerta,Mystery,7.8,108399,845512.2,No
+Moonrise Kingdom,Comedy,7.8,318789,2486554.1999999997,No
+Moonrise Kingdom,Drama,7.8,318789,2486554.1999999997,No
+Moonrise Kingdom,Romance,7.8,318789,2486554.1999999997,No
+How to Train Your Dragon 2,Animation,7.8,305611,2383765.8,No
+How to Train Your Dragon 2,Action,7.8,305611,2383765.8,No
+How to Train Your Dragon 2,Adventure,7.8,305611,2383765.8,No
+The Big Short,Biography,7.8,362942,2830947.6,No
+The Big Short,Comedy,7.8,362942,2830947.6,No
+The Big Short,Drama,7.8,362942,2830947.6,No
+Kokuhaku,Drama,7.8,35713,278561.39999999997,No
+Kokuhaku,Thriller,7.8,35713,278561.39999999997,No
+Ang-ma-reul bo-at-da,Action,7.8,111252,867765.6,No
+Ang-ma-reul bo-at-da,Crime,7.8,111252,867765.6,No
+Ang-ma-reul bo-at-da,Drama,7.8,111252,867765.6,No
+The Girl with the Dragon Tattoo,Crime,7.8,423010,3299478.0,No
+The Girl with the Dragon Tattoo,Drama,7.8,423010,3299478.0,No
+The Girl with the Dragon Tattoo,Mystery,7.8,423010,3299478.0,No
+Captain Phillips,Adventure,7.8,421244,3285703.1999999997,No
+Captain Phillips,Biography,7.8,421244,3285703.1999999997,No
+Captain Phillips,Crime,7.8,421244,3285703.1999999997,No
+Ajeossi,Action,7.8,62848,490214.39999999997,No
+Ajeossi,Crime,7.8,62848,490214.39999999997,No
+Ajeossi,Drama,7.8,62848,490214.39999999997,No
+Straight Outta Compton,Biography,7.8,179264,1398259.2,No
+Straight Outta Compton,Drama,7.8,179264,1398259.2,No
+Straight Outta Compton,History,7.8,179264,1398259.2,No
+Madeo,Crime,7.8,52758,411512.39999999997,No
+Madeo,Drama,7.8,52758,411512.39999999997,No
+Madeo,Mystery,7.8,52758,411512.39999999997,No
+Chugyeokja,Action,7.8,58468,456050.39999999997,No
+Chugyeokja,Crime,7.8,58468,456050.39999999997,No
+Chugyeokja,Thriller,7.8,58468,456050.39999999997,No
+The Hobbit: The Desolation of Smaug,Adventure,7.8,601408,4690982.399999999,No
+The Hobbit: The Desolation of Smaug,Fantasy,7.8,601408,4690982.399999999,No
+Das weiße Band - Eine deutsche Kindergeschichte,Drama,7.8,68715,535977.0,No
+Das weiße Band - Eine deutsche Kindergeschichte,History,7.8,68715,535977.0,No
+Das weiße Band - Eine deutsche Kindergeschichte,Mystery,7.8,68715,535977.0,No
+Män som hatar kvinnor,Crime,7.8,208994,1630153.2,No
+Män som hatar kvinnor,Drama,7.8,208994,1630153.2,No
+Män som hatar kvinnor,Mystery,7.8,208994,1630153.2,No
+The Trial of the Chicago 7,Drama,7.8,89896,701188.7999999999,No
+The Trial of the Chicago 7,History,7.8,89896,701188.7999999999,No
+The Trial of the Chicago 7,Thriller,7.8,89896,701188.7999999999,No
+Druk,Comedy,7.8,33931,264661.8,No
+Druk,Drama,7.8,33931,264661.8,No
+The Fighter,Biography,7.8,340584,2656555.1999999997,No
+The Fighter,Drama,7.8,340584,2656555.1999999997,No
+The Fighter,Sport,7.8,340584,2656555.1999999997,No
+Taken,Action,7.8,564791,4405369.8,No
+Taken,Thriller,7.8,564791,4405369.8,No
+The Boy in the Striped Pyjamas,Drama,7.8,190748,1487834.4,No
+The Boy in the Striped Pyjamas,History,7.8,190748,1487834.4,No
+The Boy in the Striped Pyjamas,War,7.8,190748,1487834.4,No
+Once,Drama,7.8,110656,863116.7999999999,No
+Once,Music,7.8,110656,863116.7999999999,No
+Once,Romance,7.8,110656,863116.7999999999,No
+The Hobbit: An Unexpected Journey,Adventure,7.8,757377,5907540.6,No
+The Hobbit: An Unexpected Journey,Fantasy,7.8,757377,5907540.6,No
+Auf der anderen Seite,Drama,7.8,30827,240450.6,No
+Atonement,Drama,7.8,251370,1960686.0,No
+Atonement,Mystery,7.8,251370,1960686.0,No
+Atonement,Romance,7.8,251370,1960686.0,No
+Drive,Crime,7.8,571571,4458253.8,No
+Drive,Drama,7.8,571571,4458253.8,No
+American Gangster,Biography,7.8,392449,3061102.1999999997,No
+American Gangster,Crime,7.8,392449,3061102.1999999997,No
+American Gangster,Drama,7.8,392449,3061102.1999999997,No
+Avatar,Action,7.8,1118998,8728184.4,No
+Avatar,Adventure,7.8,1118998,8728184.4,No
+Avatar,Fantasy,7.8,1118998,8728184.4,No
+Mr. Nobody,Drama,7.8,216421,1688083.8,No
+Mr. Nobody,Fantasy,7.8,216421,1688083.8,No
+Mr. Nobody,Romance,7.8,216421,1688083.8,No
+Apocalypto,Action,7.8,291018,2269940.4,No
+Apocalypto,Adventure,7.8,291018,2269940.4,No
+Apocalypto,Drama,7.8,291018,2269940.4,No
+Little Miss Sunshine,Comedy,7.8,439856,3430876.8,No
+Little Miss Sunshine,Drama,7.8,439856,3430876.8,No
+Hot Fuzz,Action,7.8,463466,3615034.8,No
+Hot Fuzz,Comedy,7.8,463466,3615034.8,No
+Hot Fuzz,Mystery,7.8,463466,3615034.8,No
+The Curious Case of Benjamin Button,Drama,7.8,589160,4595448.0,No
+The Curious Case of Benjamin Button,Fantasy,7.8,589160,4595448.0,No
+The Curious Case of Benjamin Button,Romance,7.8,589160,4595448.0,No
+Veer-Zaara,Drama,7.8,49050,382590.0,No
+Veer-Zaara,Family,7.8,49050,382590.0,No
+Veer-Zaara,Musical,7.8,49050,382590.0,No
+Adams æbler,Comedy,7.8,45717,356592.6,No
+Adams æbler,Crime,7.8,45717,356592.6,No
+Adams æbler,Drama,7.8,45717,356592.6,No
+Pride & Prejudice,Drama,7.8,258924,2019607.2,No
+Pride & Prejudice,Romance,7.8,258924,2019607.2,No
+The World's Fastest Indian,Biography,7.8,51980,405444.0,No
+The World's Fastest Indian,Drama,7.8,51980,405444.0,No
+The World's Fastest Indian,Sport,7.8,51980,405444.0,No
+Tôkyô goddofâzâzu,Animation,7.8,31658,246932.4,No
+Tôkyô goddofâzâzu,Adventure,7.8,31658,246932.4,No
+Tôkyô goddofâzâzu,Comedy,7.8,31658,246932.4,No
+Serenity,Action,7.8,283310,2209818.0,No
+Serenity,Adventure,7.8,283310,2209818.0,No
+Serenity,Sci-Fi,7.8,283310,2209818.0,No
+Walk the Line,Biography,7.8,234207,1826814.5999999999,No
+Walk the Line,Drama,7.8,234207,1826814.5999999999,No
+Walk the Line,Music,7.8,234207,1826814.5999999999,No
+Ondskan,Drama,7.8,35682,278319.6,No
+The Notebook,Drama,7.8,520284,4058215.1999999997,No
+The Notebook,Romance,7.8,520284,4058215.1999999997,No
+Diarios de motocicleta,Adventure,7.8,96703,754283.4,No
+Diarios de motocicleta,Biography,7.8,96703,754283.4,No
+Diarios de motocicleta,Drama,7.8,96703,754283.4,No
+Lilja 4-ever,Crime,7.8,42673,332849.39999999997,No
+Lilja 4-ever,Drama,7.8,42673,332849.39999999997,No
+Les triplettes de Belleville,Animation,7.8,50622,394851.6,No
+Les triplettes de Belleville,Comedy,7.8,50622,394851.6,No
+Les triplettes de Belleville,Drama,7.8,50622,394851.6,No
+Gongdong gyeongbi guyeok JSA,Action,7.8,26518,206840.4,No
+Gongdong gyeongbi guyeok JSA,Drama,7.8,26518,206840.4,No
+Gongdong gyeongbi guyeok JSA,Thriller,7.8,26518,206840.4,No
+The Count of Monte Cristo,Action,7.8,129022,1006371.6,No
+The Count of Monte Cristo,Adventure,7.8,129022,1006371.6,No
+The Count of Monte Cristo,Drama,7.8,129022,1006371.6,No
+Waking Life,Animation,7.8,60684,473335.2,No
+Waking Life,Drama,7.8,60684,473335.2,No
+Waking Life,Fantasy,7.8,60684,473335.2,No
+Remember the Titans,Biography,7.8,198089,1545094.2,No
+Remember the Titans,Drama,7.8,198089,1545094.2,No
+Remember the Titans,Sport,7.8,198089,1545094.2,No
+Wo hu cang long,Action,7.8,253228,1975178.4,No
+Wo hu cang long,Adventure,7.8,253228,1975178.4,No
+Wo hu cang long,Fantasy,7.8,253228,1975178.4,No
+Todo sobre mi madre,Drama,7.8,89058,694652.4,No
+Cast Away,Adventure,7.8,524235,4089033.0,No
+Cast Away,Drama,7.8,524235,4089033.0,No
+Cast Away,Romance,7.8,524235,4089033.0,No
+The Boondock Saints,Action,7.8,227143,1771715.4,No
+The Boondock Saints,Crime,7.8,227143,1771715.4,No
+The Boondock Saints,Thriller,7.8,227143,1771715.4,No
+The Insider,Biography,7.8,159886,1247110.8,No
+The Insider,Drama,7.8,159886,1247110.8,No
+The Insider,Thriller,7.8,159886,1247110.8,No
+October Sky,Biography,7.8,82855,646269.0,No
+October Sky,Drama,7.8,82855,646269.0,No
+October Sky,Family,7.8,82855,646269.0,No
+Shrek,Animation,7.8,613941,4788739.8,No
+Shrek,Adventure,7.8,613941,4788739.8,No
+Shrek,Comedy,7.8,613941,4788739.8,No
+Titanic,Drama,7.8,1046089,8159494.2,No
+Titanic,Romance,7.8,1046089,8159494.2,No
+Hana-bi,Crime,7.8,27712,216153.6,No
+Hana-bi,Drama,7.8,27712,216153.6,No
+Hana-bi,Romance,7.8,27712,216153.6,No
+Gattaca,Drama,7.8,280845,2190591.0,No
+Gattaca,Sci-Fi,7.8,280845,2190591.0,No
+Gattaca,Thriller,7.8,280845,2190591.0,No
+The Game,Action,7.8,345096,2691748.8,No
+The Game,Drama,7.8,345096,2691748.8,No
+The Game,Mystery,7.8,345096,2691748.8,No
+Breaking the Waves,Drama,7.8,62428,486938.39999999997,No
+Ed Wood,Biography,7.8,164937,1286508.5999999999,No
+Ed Wood,Comedy,7.8,164937,1286508.5999999999,No
+Ed Wood,Drama,7.8,164937,1286508.5999999999,No
+What's Eating Gilbert Grape,Drama,7.8,215034,1677265.2,No
+Tombstone,Action,7.8,126871,989593.7999999999,No
+Tombstone,Biography,7.8,126871,989593.7999999999,No
+Tombstone,Drama,7.8,126871,989593.7999999999,No
+The Sandlot,Comedy,7.8,78963,615911.4,No
+The Sandlot,Drama,7.8,78963,615911.4,No
+The Sandlot,Family,7.8,78963,615911.4,No
+The Remains of the Day,Drama,7.8,66065,515307.0,No
+The Remains of the Day,Romance,7.8,66065,515307.0,No
+Naked,Comedy,7.8,34635,270153.0,No
+Naked,Drama,7.8,34635,270153.0,No
+The Fugitive,Action,7.8,267684,2087935.2,No
+The Fugitive,Crime,7.8,267684,2087935.2,No
+The Fugitive,Drama,7.8,267684,2087935.2,No
+A Bronx Tale,Crime,7.8,128171,999733.7999999999,No
+A Bronx Tale,Drama,7.8,128171,999733.7999999999,No
+A Bronx Tale,Romance,7.8,128171,999733.7999999999,No
+Batman: Mask of the Phantasm,Animation,7.8,43690,340782.0,No
+Batman: Mask of the Phantasm,Action,7.8,43690,340782.0,No
+Batman: Mask of the Phantasm,Crime,7.8,43690,340782.0,No
+Lat sau san taam,Action,7.8,46700,364260.0,No
+Lat sau san taam,Crime,7.8,46700,364260.0,No
+Lat sau san taam,Thriller,7.8,46700,364260.0,No
+Night on Earth,Comedy,7.8,55362,431823.6,No
+Night on Earth,Drama,7.8,55362,431823.6,No
+La double vie de Véronique,Drama,7.8,42376,330532.8,No
+La double vie de Véronique,Fantasy,7.8,42376,330532.8,No
+La double vie de Véronique,Music,7.8,42376,330532.8,No
+Boyz n the Hood,Crime,7.8,126082,983439.6,No
+Boyz n the Hood,Drama,7.8,126082,983439.6,No
+Misery,Drama,7.8,184740,1440972.0,No
+Misery,Thriller,7.8,184740,1440972.0,No
+Awakenings,Biography,7.8,125276,977152.7999999999,No
+Awakenings,Drama,7.8,125276,977152.7999999999,No
+Majo no takkyûbin,Animation,7.8,124193,968705.4,No
+Majo no takkyûbin,Adventure,7.8,124193,968705.4,No
+Majo no takkyûbin,Drama,7.8,124193,968705.4,No
+Glory,Biography,7.8,122779,957676.2,No
+Glory,Drama,7.8,122779,957676.2,No
+Glory,History,7.8,122779,957676.2,No
+Dip huet seung hung,Action,7.8,45624,355867.2,No
+Dip huet seung hung,Crime,7.8,45624,355867.2,No
+Dip huet seung hung,Drama,7.8,45624,355867.2,No
+Back to the Future Part II,Adventure,7.8,481918,3758960.4,No
+Back to the Future Part II,Comedy,7.8,481918,3758960.4,No
+Back to the Future Part II,Sci-Fi,7.8,481918,3758960.4,No
+Mississippi Burning,Crime,7.8,88214,688069.2,No
+Mississippi Burning,Drama,7.8,88214,688069.2,No
+Mississippi Burning,History,7.8,88214,688069.2,No
+Predator,Action,7.8,371387,2896818.6,No
+Predator,Adventure,7.8,371387,2896818.6,No
+Predator,Sci-Fi,7.8,371387,2896818.6,No
+Evil Dead II,Action,7.8,148359,1157200.2,No
+Evil Dead II,Comedy,7.8,148359,1157200.2,No
+Evil Dead II,Fantasy,7.8,148359,1157200.2,No
+Ferris Bueller's Day Off,Comedy,7.8,321382,2506779.6,No
+Down by Law,Comedy,7.8,47834,373105.2,No
+Down by Law,Crime,7.8,47834,373105.2,No
+Down by Law,Drama,7.8,47834,373105.2,No
+The Goonies,Adventure,7.8,244430,1906554.0,No
+The Goonies,Comedy,7.8,244430,1906554.0,No
+The Goonies,Family,7.8,244430,1906554.0,No
+The Color Purple,Drama,7.8,78321,610903.7999999999,No
+The Breakfast Club,Comedy,7.8,357026,2784802.8,No
+The Breakfast Club,Drama,7.8,357026,2784802.8,No
+The Killing Fields,Biography,7.8,51585,402363.0,No
+The Killing Fields,Drama,7.8,51585,402363.0,No
+The Killing Fields,History,7.8,51585,402363.0,No
+Ghostbusters,Action,7.8,355413,2772221.4,No
+Ghostbusters,Comedy,7.8,355413,2772221.4,No
+Ghostbusters,Fantasy,7.8,355413,2772221.4,No
+The Right Stuff,Adventure,7.8,56235,438633.0,No
+The Right Stuff,Biography,7.8,56235,438633.0,No
+The Right Stuff,Drama,7.8,56235,438633.0,No
+The King of Comedy,Comedy,7.8,88511,690385.7999999999,No
+The King of Comedy,Crime,7.8,88511,690385.7999999999,No
+The King of Comedy,Drama,7.8,88511,690385.7999999999,No
+E.T. the Extra-Terrestrial,Family,7.8,372490,2905422.0,No
+E.T. the Extra-Terrestrial,Sci-Fi,7.8,372490,2905422.0,No
+Kramer vs. Kramer,Drama,7.8,133351,1040137.7999999999,No
+Days of Heaven,Drama,7.8,52852,412245.6,No
+Days of Heaven,Romance,7.8,52852,412245.6,No
+The Outlaw Josey Wales,Western,7.8,65659,512140.2,No
+The Man Who Would Be King,Adventure,7.8,44917,350352.6,No
+The Man Who Would Be King,History,7.8,44917,350352.6,No
+The Man Who Would Be King,War,7.8,44917,350352.6,No
+The Conversation,Drama,7.8,98611,769165.7999999999,No
+The Conversation,Mystery,7.8,98611,769165.7999999999,No
+The Conversation,Thriller,7.8,98611,769165.7999999999,No
+La planète sauvage,Animation,7.8,25229,196786.19999999998,No
+La planète sauvage,Sci-Fi,7.8,25229,196786.19999999998,No
+The Day of the Jackal,Crime,7.8,37445,292071.0,No
+The Day of the Jackal,Drama,7.8,37445,292071.0,No
+The Day of the Jackal,Thriller,7.8,37445,292071.0,No
+Badlands,Action,7.8,66009,514870.2,No
+Badlands,Crime,7.8,66009,514870.2,No
+Badlands,Drama,7.8,66009,514870.2,No
+Cabaret,Drama,7.8,48334,377005.2,No
+Cabaret,Music,7.8,48334,377005.2,No
+Cabaret,Musical,7.8,48334,377005.2,No
+Willy Wonka & the Chocolate Factory,Family,7.8,178731,1394101.8,No
+Willy Wonka & the Chocolate Factory,Fantasy,7.8,178731,1394101.8,No
+Willy Wonka & the Chocolate Factory,Musical,7.8,178731,1394101.8,No
+Midnight Cowboy,Drama,7.8,101124,788767.2,No
+Wait Until Dark,Thriller,7.8,27733,216317.4,No
+Guess Who's Coming to Dinner,Comedy,7.8,39642,309207.6,No
+Guess Who's Coming to Dinner,Drama,7.8,39642,309207.6,No
+Bonnie and Clyde,Action,7.8,102415,798837.0,No
+Bonnie and Clyde,Biography,7.8,102415,798837.0,No
+Bonnie and Clyde,Crime,7.8,102415,798837.0,No
+My Fair Lady,Drama,7.8,86525,674895.0,No
+My Fair Lady,Family,7.8,86525,674895.0,No
+My Fair Lady,Musical,7.8,86525,674895.0,No
+Mary Poppins,Comedy,7.8,158029,1232626.2,No
+Mary Poppins,Family,7.8,158029,1232626.2,No
+Mary Poppins,Fantasy,7.8,158029,1232626.2,No
+The Longest Day,Action,7.8,52141,406699.8,No
+The Longest Day,Drama,7.8,52141,406699.8,No
+The Longest Day,History,7.8,52141,406699.8,No
+Jules et Jim,Drama,7.8,37605,293319.0,No
+Jules et Jim,Romance,7.8,37605,293319.0,No
+The Innocents,Horror,7.8,27007,210654.6,No
+À bout de souffle,Crime,7.8,73251,571357.7999999999,No
+À bout de souffle,Drama,7.8,73251,571357.7999999999,No
+Red River,Action,7.8,28167,219702.6,No
+Red River,Adventure,7.8,28167,219702.6,No
+Red River,Drama,7.8,28167,219702.6,No
+Key Largo,Action,7.8,36995,288561.0,No
+Key Largo,Crime,7.8,36995,288561.0,No
+Key Largo,Drama,7.8,36995,288561.0,No
+To Have and Have Not,Adventure,7.8,31053,242213.4,No
+To Have and Have Not,Comedy,7.8,31053,242213.4,No
+To Have and Have Not,Film-Noir,7.8,31053,242213.4,No
+Shadow of a Doubt,Film-Noir,7.8,59556,464536.8,No
+Shadow of a Doubt,Thriller,7.8,59556,464536.8,No
+Stagecoach,Adventure,7.8,43621,340243.8,No
+Stagecoach,Drama,7.8,43621,340243.8,No
+Stagecoach,Western,7.8,43621,340243.8,No
+The Lady Vanishes,Mystery,7.8,47400,369720.0,No
+The Lady Vanishes,Thriller,7.8,47400,369720.0,No
+Bringing Up Baby,Comedy,7.8,55163,430271.39999999997,No
+Bringing Up Baby,Family,7.8,55163,430271.39999999997,No
+Bringing Up Baby,Romance,7.8,55163,430271.39999999997,No
+Bride of Frankenstein,Drama,7.8,43542,339627.6,No
+Bride of Frankenstein,Horror,7.8,43542,339627.6,No
+Bride of Frankenstein,Sci-Fi,7.8,43542,339627.6,No
+Duck Soup,Comedy,7.8,55581,433531.8,No
+Duck Soup,Musical,7.8,55581,433531.8,No
+Duck Soup,War,7.8,55581,433531.8,No
+Scarface: The Shame of the Nation,Action,7.8,25312,197433.6,No
+Scarface: The Shame of the Nation,Crime,7.8,25312,197433.6,No
+Scarface: The Shame of the Nation,Drama,7.8,25312,197433.6,No
+Frankenstein,Drama,7.8,65341,509659.8,No
+Frankenstein,Horror,7.8,65341,509659.8,No
+Frankenstein,Sci-Fi,7.8,65341,509659.8,No
+Roma,Drama,7.7,140375,1080887.5,No
+God's Own Country,Drama,7.7,25198,194024.6,No
+God's Own Country,Romance,7.7,25198,194024.6,No
+Deadpool 2,Action,7.7,478586,3685112.2,No
+Deadpool 2,Adventure,7.7,478586,3685112.2,No
+Deadpool 2,Comedy,7.7,478586,3685112.2,No
+Wind River,Crime,7.7,205444,1581918.8,No
+Wind River,Drama,7.7,205444,1581918.8,No
+Wind River,Mystery,7.7,205444,1581918.8,No
+Get Out,Horror,7.7,492851,3794952.7,No
+Get Out,Mystery,7.7,492851,3794952.7,No
+Get Out,Thriller,7.7,492851,3794952.7,No
+Mission: Impossible - Fallout,Action,7.7,291257,2242678.9,No
+Mission: Impossible - Fallout,Adventure,7.7,291257,2242678.9,No
+Mission: Impossible - Fallout,Thriller,7.7,291257,2242678.9,No
+En man som heter Ove,Comedy,7.7,47444,365318.8,No
+En man som heter Ove,Drama,7.7,47444,365318.8,No
+En man som heter Ove,Romance,7.7,47444,365318.8,No
+What We Do in the Shadows,Comedy,7.7,157498,1212734.6,No
+What We Do in the Shadows,Horror,7.7,157498,1212734.6,No
+Omoide no Mânî,Animation,7.7,32798,252544.6,No
+Omoide no Mânî,Drama,7.7,32798,252544.6,No
+Omoide no Mânî,Family,7.7,32798,252544.6,No
+The Theory of Everything,Biography,7.7,404182,3112201.4,No
+The Theory of Everything,Drama,7.7,404182,3112201.4,No
+The Theory of Everything,Romance,7.7,404182,3112201.4,No
+Kingsman: The Secret Service,Action,7.7,590440,4546388.0,No
+Kingsman: The Secret Service,Adventure,7.7,590440,4546388.0,No
+Kingsman: The Secret Service,Comedy,7.7,590440,4546388.0,No
+The Fault in Our Stars,Drama,7.7,344312,2651202.4,No
+The Fault in Our Stars,Romance,7.7,344312,2651202.4,No
+Me and Earl and the Dying Girl,Comedy,7.7,123210,948717.0,No
+Me and Earl and the Dying Girl,Drama,7.7,123210,948717.0,No
+Birdman or (The Unexpected Virtue of Ignorance),Comedy,7.7,580291,4468240.7,No
+Birdman or (The Unexpected Virtue of Ignorance),Drama,7.7,580291,4468240.7,No
+La vie d'Adèle,Drama,7.7,138741,1068305.7,No
+La vie d'Adèle,Romance,7.7,138741,1068305.7,No
+Kai po che!,Drama,7.7,32628,251235.6,No
+Kai po che!,Sport,7.7,32628,251235.6,No
+The Broken Circle Breakdown,Drama,7.7,39379,303218.3,No
+The Broken Circle Breakdown,Music,7.7,39379,303218.3,No
+The Broken Circle Breakdown,Romance,7.7,39379,303218.3,No
+Captain America: The Winter Soldier,Action,7.7,736182,5668601.4,No
+Captain America: The Winter Soldier,Adventure,7.7,736182,5668601.4,No
+Captain America: The Winter Soldier,Sci-Fi,7.7,736182,5668601.4,No
+Rockstar,Drama,7.7,39501,304157.7,No
+Rockstar,Music,7.7,39501,304157.7,No
+Rockstar,Musical,7.7,39501,304157.7,No
+Nebraska,Adventure,7.7,112298,864694.6,No
+Nebraska,Comedy,7.7,112298,864694.6,No
+Nebraska,Drama,7.7,112298,864694.6,No
+Wreck-It Ralph,Animation,7.7,380195,2927501.5,No
+Wreck-It Ralph,Adventure,7.7,380195,2927501.5,No
+Wreck-It Ralph,Comedy,7.7,380195,2927501.5,No
+Le Petit Prince,Animation,7.7,56720,436744.0,No
+Le Petit Prince,Adventure,7.7,56720,436744.0,No
+Le Petit Prince,Drama,7.7,56720,436744.0,No
+Detachment,Drama,7.7,77071,593446.7000000001,No
+Midnight in Paris,Comedy,7.7,388089,2988285.3000000003,No
+Midnight in Paris,Fantasy,7.7,388089,2988285.3000000003,No
+Midnight in Paris,Romance,7.7,388089,2988285.3000000003,No
+The Lego Movie,Animation,7.7,323982,2494661.4,No
+The Lego Movie,Action,7.7,323982,2494661.4,No
+The Lego Movie,Adventure,7.7,323982,2494661.4,No
+Gravity,Drama,7.7,769145,5922416.5,No
+Gravity,Sci-Fi,7.7,769145,5922416.5,No
+Gravity,Thriller,7.7,769145,5922416.5,No
+Star Trek Into Darkness,Action,7.7,463188,3566547.6,No
+Star Trek Into Darkness,Adventure,7.7,463188,3566547.6,No
+Star Trek Into Darkness,Sci-Fi,7.7,463188,3566547.6,No
+Beasts of No Nation,Drama,7.7,73964,569522.8,No
+Beasts of No Nation,War,7.7,73964,569522.8,No
+The Social Network,Biography,7.7,624982,4812361.4,No
+The Social Network,Drama,7.7,624982,4812361.4,No
+X: First Class,Action,7.7,645512,4970442.4,No
+X: First Class,Adventure,7.7,645512,4970442.4,No
+X: First Class,Sci-Fi,7.7,645512,4970442.4,No
+The Hangover,Comedy,7.7,717559,5525204.3,No
+Skyfall,Action,7.7,630614,4855727.8,No
+Skyfall,Adventure,7.7,630614,4855727.8,No
+Skyfall,Thriller,7.7,630614,4855727.8,No
+Silver Linings Playbook,Comedy,7.7,661871,5096406.7,No
+Silver Linings Playbook,Drama,7.7,661871,5096406.7,No
+Silver Linings Playbook,Romance,7.7,661871,5096406.7,No
+Argo,Biography,7.7,572581,4408873.7,No
+Argo,Drama,7.7,572581,4408873.7,No
+Argo,Thriller,7.7,572581,4408873.7,No
+(500) Days of Summer,Comedy,7.7,472242,3636263.4,No
+(500) Days of Summer,Drama,7.7,472242,3636263.4,No
+(500) Days of Summer,Romance,7.7,472242,3636263.4,No
+Harry Potter and the Deathly Hallows: Part 1,Adventure,7.7,479120,3689224.0,No
+Harry Potter and the Deathly Hallows: Part 1,Family,7.7,479120,3689224.0,No
+Harry Potter and the Deathly Hallows: Part 1,Fantasy,7.7,479120,3689224.0,No
+Gake no ue no Ponyo,Animation,7.7,125317,964940.9,No
+Gake no ue no Ponyo,Adventure,7.7,125317,964940.9,No
+Gake no ue no Ponyo,Comedy,7.7,125317,964940.9,No
+Frost/Nixon,Biography,7.7,103330,795641.0,No
+Frost/Nixon,Drama,7.7,103330,795641.0,No
+Frost/Nixon,History,7.7,103330,795641.0,No
+Papurika,Animation,7.7,71379,549618.3,No
+Papurika,Drama,7.7,71379,549618.3,No
+Papurika,Fantasy,7.7,71379,549618.3,No
+Changeling,Biography,7.7,239203,1841863.1,No
+Changeling,Crime,7.7,239203,1841863.1,No
+Changeling,Drama,7.7,239203,1841863.1,No
+Flipped,Comedy,7.7,81446,627134.2000000001,No
+Flipped,Drama,7.7,81446,627134.2000000001,No
+Flipped,Romance,7.7,81446,627134.2000000001,No
+Toki o kakeru shôjo,Animation,7.7,60368,464833.60000000003,No
+Toki o kakeru shôjo,Adventure,7.7,60368,464833.60000000003,No
+Toki o kakeru shôjo,Comedy,7.7,60368,464833.60000000003,No
+Death Note: Desu nôto,Crime,7.7,28630,220451.0,No
+Death Note: Desu nôto,Drama,7.7,28630,220451.0,No
+Death Note: Desu nôto,Fantasy,7.7,28630,220451.0,No
+This Is England,Crime,7.7,115576,889935.2000000001,No
+This Is England,Drama,7.7,115576,889935.2000000001,No
+Ex Machina,Drama,7.7,474141,3650885.7,No
+Ex Machina,Sci-Fi,7.7,474141,3650885.7,No
+Ex Machina,Thriller,7.7,474141,3650885.7,No
+Efter brylluppet,Drama,7.7,32001,246407.7,No
+The Last King of Scotland,Biography,7.7,175355,1350233.5,No
+The Last King of Scotland,Drama,7.7,175355,1350233.5,No
+The Last King of Scotland,History,7.7,175355,1350233.5,No
+Zodiac,Crime,7.7,466080,3588816.0,No
+Zodiac,Drama,7.7,466080,3588816.0,No
+Zodiac,Mystery,7.7,466080,3588816.0,No
+Lucky Number Slevin,Action,7.7,299524,2306334.8000000003,No
+Lucky Number Slevin,Crime,7.7,299524,2306334.8000000003,No
+Lucky Number Slevin,Drama,7.7,299524,2306334.8000000003,No
+Joyeux Noël,Drama,7.7,28003,215623.1,No
+Joyeux Noël,History,7.7,28003,215623.1,No
+Joyeux Noël,Music,7.7,28003,215623.1,No
+Control,Biography,7.7,61609,474389.3,No
+Control,Drama,7.7,61609,474389.3,No
+Control,Music,7.7,61609,474389.3,No
+Tangled,Animation,7.7,405922,3125599.4,No
+Tangled,Adventure,7.7,405922,3125599.4,No
+Tangled,Comedy,7.7,405922,3125599.4,No
+Zwartboek,Drama,7.7,72643,559351.1,No
+Zwartboek,Thriller,7.7,72643,559351.1,No
+Zwartboek,War,7.7,72643,559351.1,No
+Brokeback Mountain,Drama,7.7,323103,2487893.1,No
+Brokeback Mountain,Romance,7.7,323103,2487893.1,No
+3:10 to Yuma,Action,7.7,288797,2223736.9,No
+3:10 to Yuma,Crime,7.7,288797,2223736.9,No
+3:10 to Yuma,Drama,7.7,288797,2223736.9,No
+Crash,Crime,7.7,419483,3230019.1,No
+Crash,Drama,7.7,419483,3230019.1,No
+Crash,Thriller,7.7,419483,3230019.1,No
+Kung fu,Action,7.7,127250,979825.0,No
+Kung fu,Comedy,7.7,127250,979825.0,No
+Kung fu,Fantasy,7.7,127250,979825.0,No
+The Bourne Supremacy,Action,7.7,434841,3348275.7,No
+The Bourne Supremacy,Mystery,7.7,434841,3348275.7,No
+The Bourne Supremacy,Thriller,7.7,434841,3348275.7,No
+The Machinist,Drama,7.7,358432,2759926.4,No
+The Machinist,Thriller,7.7,358432,2759926.4,No
+Ray,Biography,7.7,138356,1065341.2,No
+Ray,Drama,7.7,138356,1065341.2,No
+Ray,Music,7.7,138356,1065341.2,No
+Lost in Translation,Comedy,7.7,415074,3196069.8000000003,No
+Lost in Translation,Drama,7.7,415074,3196069.8000000003,No
+Harry Potter and the Goblet of Fire,Adventure,7.7,548619,4224366.3,No
+Harry Potter and the Goblet of Fire,Family,7.7,548619,4224366.3,No
+Harry Potter and the Goblet of Fire,Fantasy,7.7,548619,4224366.3,No
+Man on Fire,Action,7.7,329592,2537858.4,No
+Man on Fire,Crime,7.7,329592,2537858.4,No
+Man on Fire,Drama,7.7,329592,2537858.4,No
+Coraline,Animation,7.7,197761,1522759.7,No
+Coraline,Drama,7.7,197761,1522759.7,No
+Coraline,Family,7.7,197761,1522759.7,No
+The Last Samurai,Action,7.7,400049,3080377.3000000003,No
+The Last Samurai,Drama,7.7,400049,3080377.3000000003,No
+The Magdalene Sisters,Drama,7.7,25938,199722.6,No
+Good Bye Lenin!,Comedy,7.7,137981,1062453.7,No
+Good Bye Lenin!,Drama,7.7,137981,1062453.7,No
+Good Bye Lenin!,Romance,7.7,137981,1062453.7,No
+In America,Drama,7.7,40403,311103.10000000003,No
+I Am Sam,Drama,7.7,142863,1100045.1,No
+Adaptation.,Comedy,7.7,178565,1374950.5,No
+Adaptation.,Drama,7.7,178565,1374950.5,No
+Black Hawk Down,Drama,7.7,364254,2804755.8000000003,No
+Black Hawk Down,History,7.7,364254,2804755.8000000003,No
+Black Hawk Down,War,7.7,364254,2804755.8000000003,No
+Road to Perdition,Crime,7.7,246840,1900668.0,No
+Road to Perdition,Drama,7.7,246840,1900668.0,No
+Road to Perdition,Thriller,7.7,246840,1900668.0,No
+Das Experiment,Drama,7.7,90842,699483.4,No
+Das Experiment,Thriller,7.7,90842,699483.4,No
+Billy Elliot,Drama,7.7,126770,976129.0,No
+Billy Elliot,Music,7.7,126770,976129.0,No
+Hedwig and the Angry Inch,Comedy,7.7,31957,246068.9,No
+Hedwig and the Angry Inch,Drama,7.7,31957,246068.9,No
+Hedwig and the Angry Inch,Music,7.7,31957,246068.9,No
+Ocean's Eleven,Crime,7.7,516372,3976064.4,No
+Ocean's Eleven,Thriller,7.7,516372,3976064.4,No
+Vampire Hunter D: Bloodlust,Animation,7.7,29210,224917.0,No
+Vampire Hunter D: Bloodlust,Action,7.7,29210,224917.0,No
+Vampire Hunter D: Bloodlust,Fantasy,7.7,29210,224917.0,No
+"O Brother, Where Art Thou?",Adventure,7.7,286742,2207913.4,No
+"O Brother, Where Art Thou?",Comedy,7.7,286742,2207913.4,No
+"O Brother, Where Art Thou?",Crime,7.7,286742,2207913.4,No
+Interstate 60: Episodes of the Road,Adventure,7.7,29999,230992.30000000002,No
+Interstate 60: Episodes of the Road,Comedy,7.7,29999,230992.30000000002,No
+Interstate 60: Episodes of the Road,Drama,7.7,29999,230992.30000000002,No
+"South Park: Bigger, Longer & Uncut",Animation,7.7,192112,1479262.4000000001,No
+"South Park: Bigger, Longer & Uncut",Comedy,7.7,192112,1479262.4000000001,No
+"South Park: Bigger, Longer & Uncut",Fantasy,7.7,192112,1479262.4000000001,No
+Office Space,Comedy,7.7,241575,1860127.5,No
+Happiness,Comedy,7.7,66408,511341.60000000003,No
+Happiness,Drama,7.7,66408,511341.60000000003,No
+Training Day,Crime,7.7,390247,3004901.9,No
+Training Day,Drama,7.7,390247,3004901.9,No
+Training Day,Thriller,7.7,390247,3004901.9,No
+Rushmore,Comedy,7.7,169229,1303063.3,No
+Rushmore,Drama,7.7,169229,1303063.3,No
+Rushmore,Romance,7.7,169229,1303063.3,No
+Abre los ojos,Drama,7.7,64082,493431.4,No
+Abre los ojos,Mystery,7.7,64082,493431.4,No
+Abre los ojos,Sci-Fi,7.7,64082,493431.4,No
+Being John Malkovich,Comedy,7.7,312542,2406573.4,No
+Being John Malkovich,Drama,7.7,312542,2406573.4,No
+Being John Malkovich,Fantasy,7.7,312542,2406573.4,No
+As Good as It Gets,Comedy,7.7,275755,2123313.5,No
+As Good as It Gets,Drama,7.7,275755,2123313.5,No
+As Good as It Gets,Romance,7.7,275755,2123313.5,No
+The Fifth Element,Action,7.7,434125,3342762.5,No
+The Fifth Element,Adventure,7.7,434125,3342762.5,No
+The Fifth Element,Sci-Fi,7.7,434125,3342762.5,No
+Le dîner de cons,Comedy,7.7,37424,288164.8,No
+Donnie Brasco,Biography,7.7,279318,2150748.6,No
+Donnie Brasco,Crime,7.7,279318,2150748.6,No
+Donnie Brasco,Drama,7.7,279318,2150748.6,No
+Shine,Biography,7.7,51350,395395.0,No
+Shine,Drama,7.7,51350,395395.0,No
+Shine,Music,7.7,51350,395395.0,No
+Primal Fear,Crime,7.7,189716,1460813.2,No
+Primal Fear,Drama,7.7,189716,1460813.2,No
+Primal Fear,Mystery,7.7,189716,1460813.2,No
+Hamlet,Drama,7.7,35991,277130.7,No
+A Little Princess,Drama,7.7,32236,248217.2,No
+A Little Princess,Family,7.7,32236,248217.2,No
+A Little Princess,Fantasy,7.7,32236,248217.2,No
+Do lok tin si,Comedy,7.7,26429,203503.30000000002,No
+Do lok tin si,Crime,7.7,26429,203503.30000000002,No
+Do lok tin si,Drama,7.7,26429,203503.30000000002,No
+Il postino,Biography,7.7,33600,258720.0,No
+Il postino,Comedy,7.7,33600,258720.0,No
+Il postino,Drama,7.7,33600,258720.0,No
+Clerks,Comedy,7.7,211450,1628165.0,No
+Short Cuts,Comedy,7.7,42275,325517.5,No
+Short Cuts,Drama,7.7,42275,325517.5,No
+Philadelphia,Drama,7.7,224169,1726101.3,No
+The Muppet Christmas Carol,Comedy,7.7,50298,387294.60000000003,No
+The Muppet Christmas Carol,Drama,7.7,50298,387294.60000000003,No
+The Muppet Christmas Carol,Family,7.7,50298,387294.60000000003,No
+Malcolm X,Biography,7.7,85819,660806.3,No
+Malcolm X,Drama,7.7,85819,660806.3,No
+Malcolm X,History,7.7,85819,660806.3,No
+The Last of the Mohicans,Action,7.7,150409,1158149.3,No
+The Last of the Mohicans,Adventure,7.7,150409,1158149.3,No
+The Last of the Mohicans,Drama,7.7,150409,1158149.3,No
+Kurenai no buta,Animation,7.7,77798,599044.6,No
+Kurenai no buta,Adventure,7.7,77798,599044.6,No
+Kurenai no buta,Comedy,7.7,77798,599044.6,No
+Glengarry Glen Ross,Crime,7.7,95826,737860.2000000001,No
+Glengarry Glen Ross,Drama,7.7,95826,737860.2000000001,No
+Glengarry Glen Ross,Mystery,7.7,95826,737860.2000000001,No
+A Few Good Men,Drama,7.7,235388,1812487.6,No
+A Few Good Men,Thriller,7.7,235388,1812487.6,No
+Fried Green Tomatoes,Drama,7.7,66941,515445.7,No
+Barton Fink,Comedy,7.7,113240,871948.0,No
+Barton Fink,Drama,7.7,113240,871948.0,No
+Barton Fink,Thriller,7.7,113240,871948.0,No
+Miller's Crossing,Crime,7.7,125822,968829.4,No
+Miller's Crossing,Drama,7.7,125822,968829.4,No
+Miller's Crossing,Thriller,7.7,125822,968829.4,No
+Who Framed Roger Rabbit,Animation,7.7,182009,1401469.3,No
+Who Framed Roger Rabbit,Adventure,7.7,182009,1401469.3,No
+Who Framed Roger Rabbit,Comedy,7.7,182009,1401469.3,No
+Spoorloos,Mystery,7.7,33982,261661.4,No
+Spoorloos,Thriller,7.7,33982,261661.4,No
+Withnail & I,Comedy,7.7,40396,311049.2,No
+Withnail & I,Drama,7.7,40396,311049.2,No
+The Last Emperor,Biography,7.7,94326,726310.2000000001,No
+The Last Emperor,Drama,7.7,94326,726310.2000000001,No
+The Last Emperor,History,7.7,94326,726310.2000000001,No
+Empire of the Sun,Action,7.7,115677,890712.9,No
+Empire of the Sun,Drama,7.7,115677,890712.9,No
+Empire of the Sun,History,7.7,115677,890712.9,No
+Der Name der Rose,Crime,7.7,102031,785638.7000000001,No
+Der Name der Rose,Drama,7.7,102031,785638.7000000001,No
+Der Name der Rose,Mystery,7.7,102031,785638.7000000001,No
+Blue Velvet,Drama,7.7,181285,1395894.5,No
+Blue Velvet,Mystery,7.7,181285,1395894.5,No
+Blue Velvet,Thriller,7.7,181285,1395894.5,No
+The Purple Rose of Cairo,Comedy,7.7,47102,362685.4,No
+The Purple Rose of Cairo,Fantasy,7.7,47102,362685.4,No
+The Purple Rose of Cairo,Romance,7.7,47102,362685.4,No
+After Hours,Comedy,7.7,59635,459189.5,No
+After Hours,Crime,7.7,59635,459189.5,No
+After Hours,Drama,7.7,59635,459189.5,No
+Zelig,Comedy,7.7,39881,307083.7,No
+The Verdict,Drama,7.7,36096,277939.2,No
+Star Trek II: The Wrath of Khan,Action,7.7,112704,867820.8,No
+Star Trek II: The Wrath of Khan,Adventure,7.7,112704,867820.8,No
+Star Trek II: The Wrath of Khan,Sci-Fi,7.7,112704,867820.8,No
+First Blood,Action,7.7,226541,1744365.7,No
+First Blood,Adventure,7.7,226541,1744365.7,No
+Ordinary People,Drama,7.7,47099,362662.3,No
+Airplane!,Comedy,7.7,214882,1654591.4000000001,No
+Rupan sansei: Kariosutoro no shiro,Animation,7.7,27014,208007.80000000002,No
+Rupan sansei: Kariosutoro no shiro,Adventure,7.7,27014,208007.80000000002,No
+Rupan sansei: Kariosutoro no shiro,Family,7.7,27014,208007.80000000002,No
+Halloween,Horror,7.7,233106,1794916.2,No
+Halloween,Thriller,7.7,233106,1794916.2,No
+Le locataire,Drama,7.7,39889,307145.3,No
+Le locataire,Thriller,7.7,39889,307145.3,No
+Love and Death,Comedy,7.7,36037,277484.9,No
+Love and Death,War,7.7,36037,277484.9,No
+The Taking of Pelham One Two Three,Action,7.7,26729,205813.30000000002,No
+The Taking of Pelham One Two Three,Crime,7.7,26729,205813.30000000002,No
+The Taking of Pelham One Two Three,Thriller,7.7,26729,205813.30000000002,No
+Blazing Saddles,Comedy,7.7,125993,970146.1,No
+Blazing Saddles,Western,7.7,125993,970146.1,No
+Serpico,Biography,7.7,109941,846545.7000000001,No
+Serpico,Crime,7.7,109941,846545.7000000001,No
+Serpico,Drama,7.7,109941,846545.7000000001,No
+Enter the Dragon,Action,7.7,96561,743519.7000000001,No
+Enter the Dragon,Crime,7.7,96561,743519.7000000001,No
+Enter the Dragon,Drama,7.7,96561,743519.7000000001,No
+Deliverance,Adventure,7.7,98740,760298.0,No
+Deliverance,Drama,7.7,98740,760298.0,No
+Deliverance,Thriller,7.7,98740,760298.0,No
+The French Connection,Action,7.7,110075,847577.5,No
+The French Connection,Crime,7.7,110075,847577.5,No
+The French Connection,Drama,7.7,110075,847577.5,No
+Dirty Harry,Action,7.7,143292,1103348.4000000001,No
+Dirty Harry,Crime,7.7,143292,1103348.4000000001,No
+Dirty Harry,Thriller,7.7,143292,1103348.4000000001,No
+Where Eagles Dare,Action,7.7,51913,399730.10000000003,No
+Where Eagles Dare,Adventure,7.7,51913,399730.10000000003,No
+Where Eagles Dare,War,7.7,51913,399730.10000000003,No
+The Odd Couple,Comedy,7.7,31572,243104.4,No
+The Dirty Dozen,Action,7.7,67183,517309.10000000003,No
+The Dirty Dozen,Adventure,7.7,67183,517309.10000000003,No
+The Dirty Dozen,War,7.7,67183,517309.10000000003,No
+Belle de jour,Drama,7.7,40274,310109.8,No
+Belle de jour,Romance,7.7,40274,310109.8,No
+A Man for All Seasons,Biography,7.7,31222,240409.4,No
+A Man for All Seasons,Drama,7.7,31222,240409.4,No
+A Man for All Seasons,History,7.7,31222,240409.4,No
+Repulsion,Drama,7.7,48883,376399.10000000003,No
+Repulsion,Horror,7.7,48883,376399.10000000003,No
+Repulsion,Thriller,7.7,48883,376399.10000000003,No
+Zulu,Drama,7.7,35999,277192.3,No
+Zulu,History,7.7,35999,277192.3,No
+Zulu,War,7.7,35999,277192.3,No
+Goldfinger,Action,7.7,174119,1340716.3,No
+Goldfinger,Adventure,7.7,174119,1340716.3,No
+Goldfinger,Thriller,7.7,174119,1340716.3,No
+The Birds,Drama,7.7,171739,1322390.3,No
+The Birds,Horror,7.7,171739,1322390.3,No
+The Birds,Mystery,7.7,171739,1322390.3,No
+Cape Fear,Drama,7.7,26457,203718.9,No
+Cape Fear,Thriller,7.7,26457,203718.9,No
+Peeping Tom,Drama,7.7,31354,241425.80000000002,No
+Peeping Tom,Horror,7.7,31354,241425.80000000002,No
+Peeping Tom,Thriller,7.7,31354,241425.80000000002,No
+The Magnificent Seven,Action,7.7,87719,675436.3,No
+The Magnificent Seven,Adventure,7.7,87719,675436.3,No
+The Magnificent Seven,Western,7.7,87719,675436.3,No
+Les yeux sans visage,Drama,7.7,27620,212674.0,No
+Les yeux sans visage,Horror,7.7,27620,212674.0,No
+Invasion of the Body Snatchers,Drama,7.7,44839,345260.3,No
+Invasion of the Body Snatchers,Horror,7.7,44839,345260.3,No
+Invasion of the Body Snatchers,Sci-Fi,7.7,44839,345260.3,No
+Rebel Without a Cause,Drama,7.7,83363,641895.1,No
+The Ladykillers,Comedy,7.7,26464,203772.80000000002,No
+The Ladykillers,Crime,7.7,26464,203772.80000000002,No
+Sabrina,Comedy,7.7,59415,457495.5,No
+Sabrina,Drama,7.7,59415,457495.5,No
+Sabrina,Romance,7.7,59415,457495.5,No
+The Quiet Man,Comedy,7.7,34677,267012.9,No
+The Quiet Man,Drama,7.7,34677,267012.9,No
+The Quiet Man,Romance,7.7,34677,267012.9,No
+The Day the Earth Stood Still,Drama,7.7,76315,587625.5,No
+The Day the Earth Stood Still,Sci-Fi,7.7,76315,587625.5,No
+The African Queen,Adventure,7.7,71481,550403.7000000001,No
+The African Queen,Drama,7.7,71481,550403.7000000001,No
+The African Queen,Romance,7.7,71481,550403.7000000001,No
+Gilda,Drama,7.7,27991,215530.7,No
+Gilda,Film-Noir,7.7,27991,215530.7,No
+Gilda,Romance,7.7,27991,215530.7,No
+Fantasia,Animation,7.7,88662,682697.4,No
+Fantasia,Family,7.7,88662,682697.4,No
+Fantasia,Fantasy,7.7,88662,682697.4,No
+The Invisible Man,Horror,7.7,30683,236259.1,No
+The Invisible Man,Sci-Fi,7.7,30683,236259.1,No
+Dark Waters,Biography,7.6,60408,459100.8,No
+Dark Waters,Drama,7.6,60408,459100.8,No
+Dark Waters,History,7.6,60408,459100.8,No
+Searching,Drama,7.6,140840,1070384.0,No
+Searching,Mystery,7.6,140840,1070384.0,No
+Searching,Thriller,7.6,140840,1070384.0,No
+Once Upon a Time... in Hollywood,Comedy,7.6,551309,4189948.4,No
+Once Upon a Time... in Hollywood,Drama,7.6,551309,4189948.4,No
+Nelyubov,Drama,7.6,29765,226214.0,No
+The Florida Project,Drama,7.6,95181,723375.6,No
+Just Mercy,Biography,7.6,46739,355216.39999999997,No
+Just Mercy,Crime,7.6,46739,355216.39999999997,No
+Just Mercy,Drama,7.6,46739,355216.39999999997,No
+Gifted,Drama,7.6,99643,757286.7999999999,No
+The Peanut Butter Falcon,Adventure,7.6,66346,504229.6,No
+The Peanut Butter Falcon,Comedy,7.6,66346,504229.6,No
+The Peanut Butter Falcon,Drama,7.6,66346,504229.6,No
+Victoria,Crime,7.6,52903,402062.8,No
+Victoria,Drama,7.6,52903,402062.8,No
+Victoria,Romance,7.6,52903,402062.8,No
+Mustang,Drama,7.6,35785,271966.0,No
+Guardians of the Galaxy Vol. 2,Action,7.6,569974,4331802.399999999,No
+Guardians of the Galaxy Vol. 2,Adventure,7.6,569974,4331802.399999999,No
+Guardians of the Galaxy Vol. 2,Comedy,7.6,569974,4331802.399999999,No
+Baby Driver,Action,7.6,439406,3339485.5999999996,No
+Baby Driver,Crime,7.6,439406,3339485.5999999996,No
+Baby Driver,Drama,7.6,439406,3339485.5999999996,No
+Only the Brave,Action,7.6,58371,443619.6,No
+Only the Brave,Biography,7.6,58371,443619.6,No
+Only the Brave,Drama,7.6,58371,443619.6,No
+Bridge of Spies,Drama,7.6,287659,2186208.4,No
+Bridge of Spies,History,7.6,287659,2186208.4,No
+Bridge of Spies,Thriller,7.6,287659,2186208.4,No
+Incredibles 2,Animation,7.6,250057,1900433.2,No
+Incredibles 2,Action,7.6,250057,1900433.2,No
+Incredibles 2,Adventure,7.6,250057,1900433.2,No
+Moana,Animation,7.6,272784,2073158.4,No
+Moana,Adventure,7.6,272784,2073158.4,No
+Moana,Comedy,7.6,272784,2073158.4,No
+Sicario,Action,7.6,371291,2821811.6,No
+Sicario,Crime,7.6,371291,2821811.6,No
+Sicario,Drama,7.6,371291,2821811.6,No
+Creed,Drama,7.6,247666,1882261.5999999999,No
+Creed,Sport,7.6,247666,1882261.5999999999,No
+Leviafan,Crime,7.6,49397,375417.19999999995,No
+Leviafan,Drama,7.6,49397,375417.19999999995,No
+Hell or High Water,Action,7.6,204175,1551730.0,No
+Hell or High Water,Crime,7.6,204175,1551730.0,No
+Hell or High Water,Drama,7.6,204175,1551730.0,No
+Philomena,Biography,7.6,94212,716011.2,No
+Philomena,Comedy,7.6,94212,716011.2,No
+Philomena,Drama,7.6,94212,716011.2,No
+Dawn of the Planet of the Apes,Action,7.6,411599,3128152.4,No
+Dawn of the Planet of the Apes,Adventure,7.6,411599,3128152.4,No
+Dawn of the Planet of the Apes,Drama,7.6,411599,3128152.4,No
+El cuerpo,Mystery,7.6,57549,437372.39999999997,No
+El cuerpo,Thriller,7.6,57549,437372.39999999997,No
+Serbuan maut,Action,7.6,190531,1448035.5999999999,No
+Serbuan maut,Thriller,7.6,190531,1448035.5999999999,No
+End of Watch,Action,7.6,228132,1733803.2,No
+End of Watch,Crime,7.6,228132,1733803.2,No
+End of Watch,Drama,7.6,228132,1733803.2,No
+Kari-gurashi no Arietti,Animation,7.6,80939,615136.4,No
+Kari-gurashi no Arietti,Adventure,7.6,80939,615136.4,No
+Kari-gurashi no Arietti,Family,7.6,80939,615136.4,No
+A Star Is Born,Drama,7.6,334312,2540771.1999999997,No
+A Star Is Born,Music,7.6,334312,2540771.1999999997,No
+A Star Is Born,Romance,7.6,334312,2540771.1999999997,No
+True Grit,Drama,7.6,311822,2369847.1999999997,No
+True Grit,Western,7.6,311822,2369847.1999999997,No
+Hævnen,Drama,7.6,38491,292531.6,No
+Hævnen,Romance,7.6,38491,292531.6,No
+Despicable Me,Animation,7.6,500851,3806467.5999999996,No
+Despicable Me,Comedy,7.6,500851,3806467.5999999996,No
+Despicable Me,Crime,7.6,500851,3806467.5999999996,No
+50/50,Comedy,7.6,315426,2397237.6,No
+50/50,Drama,7.6,315426,2397237.6,No
+50/50,Romance,7.6,315426,2397237.6,No
+Kick-Ass,Action,7.6,524081,3983015.5999999996,No
+Kick-Ass,Comedy,7.6,524081,3983015.5999999996,No
+Kick-Ass,Crime,7.6,524081,3983015.5999999996,No
+Celda 211,Action,7.6,63882,485503.19999999995,No
+Celda 211,Adventure,7.6,63882,485503.19999999995,No
+Celda 211,Crime,7.6,63882,485503.19999999995,No
+Moneyball,Biography,7.6,369529,2808420.4,No
+Moneyball,Drama,7.6,369529,2808420.4,No
+Moneyball,Sport,7.6,369529,2808420.4,No
+La piel que habito,Drama,7.6,138959,1056088.4,No
+La piel que habito,Horror,7.6,138959,1056088.4,No
+La piel que habito,Thriller,7.6,138959,1056088.4,No
+Zombieland,Adventure,7.6,520041,3952311.5999999996,No
+Zombieland,Comedy,7.6,520041,3952311.5999999996,No
+Zombieland,Fantasy,7.6,520041,3952311.5999999996,No
+Die Welle,Drama,7.6,102742,780839.2,No
+Die Welle,Thriller,7.6,102742,780839.2,No
+Sherlock Holmes,Action,7.6,583158,4432000.8,No
+Sherlock Holmes,Adventure,7.6,583158,4432000.8,No
+Sherlock Holmes,Mystery,7.6,583158,4432000.8,No
+The Blind Side,Biography,7.6,293266,2228821.6,No
+The Blind Side,Drama,7.6,293266,2228821.6,No
+The Blind Side,Sport,7.6,293266,2228821.6,No
+The Visitor,Drama,7.6,41544,315734.39999999997,No
+Seven Pounds,Drama,7.6,286770,2179452.0,No
+Eastern Promises,Action,7.6,227760,1730976.0,No
+Eastern Promises,Crime,7.6,227760,1730976.0,No
+Eastern Promises,Drama,7.6,227760,1730976.0,No
+Stardust,Adventure,7.6,255036,1938273.5999999999,No
+Stardust,Family,7.6,255036,1938273.5999999999,No
+Stardust,Fantasy,7.6,255036,1938273.5999999999,No
+The Secret of Kells,Animation,7.6,31779,241520.4,No
+The Secret of Kells,Adventure,7.6,31779,241520.4,No
+The Secret of Kells,Family,7.6,31779,241520.4,No
+Inside Man,Crime,7.6,339757,2582153.1999999997,No
+Inside Man,Drama,7.6,339757,2582153.1999999997,No
+Inside Man,Mystery,7.6,339757,2582153.1999999997,No
+Gone Baby Gone,Crime,7.6,250590,1904484.0,No
+Gone Baby Gone,Drama,7.6,250590,1904484.0,No
+Gone Baby Gone,Mystery,7.6,250590,1904484.0,No
+La Vie En Rose,Biography,7.6,82781,629135.6,No
+La Vie En Rose,Drama,7.6,82781,629135.6,No
+La Vie En Rose,Music,7.6,82781,629135.6,No
+Huo Yuan Jia,Action,7.6,72863,553758.7999999999,No
+Huo Yuan Jia,Biography,7.6,72863,553758.7999999999,No
+Huo Yuan Jia,Drama,7.6,72863,553758.7999999999,No
+The Illusionist,Drama,7.6,354728,2695932.8,No
+The Illusionist,Fantasy,7.6,354728,2695932.8,No
+The Illusionist,Mystery,7.6,354728,2695932.8,No
+Dead Man's Shoes,Crime,7.6,49728,377932.8,No
+Dead Man's Shoes,Drama,7.6,49728,377932.8,No
+Dead Man's Shoes,Thriller,7.6,49728,377932.8,No
+Harry Potter and the Half-Blood Prince,Action,7.6,474827,3608685.1999999997,No
+Harry Potter and the Half-Blood Prince,Adventure,7.6,474827,3608685.1999999997,No
+Harry Potter and the Half-Blood Prince,Family,7.6,474827,3608685.1999999997,No
+300,Action,7.6,732876,5569857.6,No
+300,Drama,7.6,732876,5569857.6,No
+Match Point,Drama,7.6,206294,1567834.4,No
+Match Point,Romance,7.6,206294,1567834.4,No
+Match Point,Thriller,7.6,206294,1567834.4,No
+Watchmen,Action,7.6,500799,3806072.4,No
+Watchmen,Drama,7.6,500799,3806072.4,No
+Watchmen,Mystery,7.6,500799,3806072.4,No
+Lord of War,Action,7.6,294140,2235464.0,No
+Lord of War,Crime,7.6,294140,2235464.0,No
+Lord of War,Drama,7.6,294140,2235464.0,No
+Saw,Horror,7.6,379020,2880552.0,No
+Saw,Mystery,7.6,379020,2880552.0,No
+Saw,Thriller,7.6,379020,2880552.0,No
+"Synecdoche, New York",Drama,7.6,83158,632000.7999999999,No
+Mysterious Skin,Drama,7.6,65939,501136.39999999997,No
+Jeux d'enfants,Comedy,7.6,67360,511936.0,No
+Jeux d'enfants,Drama,7.6,67360,511936.0,No
+Jeux d'enfants,Romance,7.6,67360,511936.0,No
+Un long dimanche de fiançailles,Drama,7.6,70925,539030.0,No
+Un long dimanche de fiançailles,Mystery,7.6,70925,539030.0,No
+Un long dimanche de fiançailles,Romance,7.6,70925,539030.0,No
+The Station Agent,Comedy,7.6,67370,512012.0,No
+The Station Agent,Drama,7.6,67370,512012.0,No
+21 Grams,Crime,7.6,224545,1706542.0,No
+21 Grams,Drama,7.6,224545,1706542.0,No
+21 Grams,Thriller,7.6,224545,1706542.0,No
+Boksuneun naui geot,Crime,7.6,62659,476208.39999999997,No
+Boksuneun naui geot,Drama,7.6,62659,476208.39999999997,No
+Boksuneun naui geot,Thriller,7.6,62659,476208.39999999997,No
+Finding Neverland,Biography,7.6,198677,1509945.2,No
+Finding Neverland,Drama,7.6,198677,1509945.2,No
+Finding Neverland,Family,7.6,198677,1509945.2,No
+25th Hour,Drama,7.6,169708,1289780.8,No
+The Butterfly Effect,Drama,7.6,451479,3431240.4,No
+The Butterfly Effect,Sci-Fi,7.6,451479,3431240.4,No
+The Butterfly Effect,Thriller,7.6,451479,3431240.4,No
+28 Days Later...,Drama,7.6,376853,2864082.8,No
+28 Days Later...,Horror,7.6,376853,2864082.8,No
+28 Days Later...,Sci-Fi,7.6,376853,2864082.8,No
+Batoru rowaiaru,Action,7.6,169091,1285091.5999999999,No
+Batoru rowaiaru,Adventure,7.6,169091,1285091.5999999999,No
+Batoru rowaiaru,Drama,7.6,169091,1285091.5999999999,No
+The Royal Tenenbaums,Comedy,7.6,266842,2027999.2,No
+The Royal Tenenbaums,Drama,7.6,266842,2027999.2,No
+Y tu mamá también,Drama,7.6,115827,880285.2,No
+Harry Potter and the Sorcerer's Stone,Adventure,7.6,658185,5002206.0,No
+Harry Potter and the Sorcerer's Stone,Family,7.6,658185,5002206.0,No
+Harry Potter and the Sorcerer's Stone,Fantasy,7.6,658185,5002206.0,No
+The Others,Horror,7.6,337651,2566147.6,No
+The Others,Mystery,7.6,337651,2566147.6,No
+The Others,Thriller,7.6,337651,2566147.6,No
+Blow,Biography,7.6,240714,1829426.4,No
+Blow,Crime,7.6,240714,1829426.4,No
+Blow,Drama,7.6,240714,1829426.4,No
+Enemy at the Gates,Drama,7.6,243729,1852340.4,No
+Enemy at the Gates,History,7.6,243729,1852340.4,No
+Enemy at the Gates,War,7.6,243729,1852340.4,No
+Minority Report,Action,7.6,508417,3863969.1999999997,No
+Minority Report,Crime,7.6,508417,3863969.1999999997,No
+Minority Report,Mystery,7.6,508417,3863969.1999999997,No
+The Hurricane,Biography,7.6,91557,695833.2,No
+The Hurricane,Drama,7.6,91557,695833.2,No
+The Hurricane,Sport,7.6,91557,695833.2,No
+American Psycho,Comedy,7.6,490062,3724471.1999999997,No
+American Psycho,Crime,7.6,490062,3724471.1999999997,No
+American Psycho,Drama,7.6,490062,3724471.1999999997,No
+Lola rennt,Crime,7.6,188317,1431209.2,No
+Lola rennt,Drama,7.6,188317,1431209.2,No
+Lola rennt,Thriller,7.6,188317,1431209.2,No
+The Thin Red Line,Drama,7.6,172710,1312596.0,No
+The Thin Red Line,War,7.6,172710,1312596.0,No
+Mulan,Animation,7.6,256906,1952485.5999999999,No
+Mulan,Adventure,7.6,256906,1952485.5999999999,No
+Mulan,Family,7.6,256906,1952485.5999999999,No
+Fear and Loathing in Las Vegas,Adventure,7.6,259753,1974122.7999999998,No
+Fear and Loathing in Las Vegas,Comedy,7.6,259753,1974122.7999999998,No
+Fear and Loathing in Las Vegas,Drama,7.6,259753,1974122.7999999998,No
+Funny Games,Crime,7.6,65058,494440.8,No
+Funny Games,Drama,7.6,65058,494440.8,No
+Funny Games,Thriller,7.6,65058,494440.8,No
+Dark City,Mystery,7.6,187927,1428245.2,No
+Dark City,Sci-Fi,7.6,187927,1428245.2,No
+Dark City,Thriller,7.6,187927,1428245.2,No
+Sleepers,Crime,7.6,186734,1419178.4,No
+Sleepers,Drama,7.6,186734,1419178.4,No
+Sleepers,Thriller,7.6,186734,1419178.4,No
+Lost Highway,Mystery,7.6,131101,996367.6,No
+Lost Highway,Thriller,7.6,131101,996367.6,No
+Sense and Sensibility,Drama,7.6,102598,779744.7999999999,No
+Sense and Sensibility,Romance,7.6,102598,779744.7999999999,No
+Die Hard: With a Vengeance,Action,7.6,364420,2769592.0,No
+Die Hard: With a Vengeance,Adventure,7.6,364420,2769592.0,No
+Die Hard: With a Vengeance,Thriller,7.6,364420,2769592.0,No
+Dead Man,Adventure,7.6,90442,687359.2,No
+Dead Man,Drama,7.6,90442,687359.2,No
+Dead Man,Fantasy,7.6,90442,687359.2,No
+The Bridges of Madison County,Drama,7.6,73172,556107.2,No
+The Bridges of Madison County,Romance,7.6,73172,556107.2,No
+Apollo 13,Adventure,7.6,269197,2045897.2,No
+Apollo 13,Drama,7.6,269197,2045897.2,No
+Apollo 13,History,7.6,269197,2045897.2,No
+Trois couleurs: Blanc,Comedy,7.6,64390,489364.0,No
+Trois couleurs: Blanc,Drama,7.6,64390,489364.0,No
+Trois couleurs: Blanc,Romance,7.6,64390,489364.0,No
+Falling Down,Action,7.6,171640,1304464.0,No
+Falling Down,Crime,7.6,171640,1304464.0,No
+Falling Down,Drama,7.6,171640,1304464.0,No
+Dazed and Confused,Comedy,7.6,165465,1257534.0,No
+My Cousin Vinny,Comedy,7.6,107325,815670.0,No
+My Cousin Vinny,Crime,7.6,107325,815670.0,No
+Omohide poro poro,Animation,7.6,27071,205739.59999999998,No
+Omohide poro poro,Drama,7.6,27071,205739.59999999998,No
+Omohide poro poro,Romance,7.6,27071,205739.59999999998,No
+Delicatessen,Comedy,7.6,80487,611701.2,No
+Delicatessen,Crime,7.6,80487,611701.2,No
+Home Alone,Comedy,7.6,488817,3715009.1999999997,No
+Home Alone,Family,7.6,488817,3715009.1999999997,No
+The Godfather: Part III,Crime,7.6,359809,2734548.4,No
+The Godfather: Part III,Drama,7.6,359809,2734548.4,No
+When Harry Met Sally...,Comedy,7.6,195663,1487038.8,No
+When Harry Met Sally...,Drama,7.6,195663,1487038.8,No
+When Harry Met Sally...,Romance,7.6,195663,1487038.8,No
+The Little Mermaid,Animation,7.6,237696,1806489.5999999999,No
+The Little Mermaid,Family,7.6,237696,1806489.5999999999,No
+The Little Mermaid,Fantasy,7.6,237696,1806489.5999999999,No
+The Naked Gun: From the Files of Police Squad!,Comedy,7.6,152871,1161819.5999999999,No
+The Naked Gun: From the Files of Police Squad!,Crime,7.6,152871,1161819.5999999999,No
+"Planes, Trains & Automobiles",Comedy,7.6,124773,948274.7999999999,No
+"Planes, Trains & Automobiles",Drama,7.6,124773,948274.7999999999,No
+Lethal Weapon,Action,7.6,236894,1800394.4,No
+Lethal Weapon,Crime,7.6,236894,1800394.4,No
+Lethal Weapon,Thriller,7.6,236894,1800394.4,No
+Blood Simple,Crime,7.6,87745,666862.0,No
+Blood Simple,Drama,7.6,87745,666862.0,No
+Blood Simple,Thriller,7.6,87745,666862.0,No
+On Golden Pond,Drama,7.6,27650,210140.0,No
+Mad Max 2,Action,7.6,166588,1266068.8,No
+Mad Max 2,Adventure,7.6,166588,1266068.8,No
+Mad Max 2,Sci-Fi,7.6,166588,1266068.8,No
+The Warriors,Action,7.6,93878,713472.7999999999,No
+The Warriors,Crime,7.6,93878,713472.7999999999,No
+The Warriors,Thriller,7.6,93878,713472.7999999999,No
+The Muppet Movie,Adventure,7.6,32802,249295.19999999998,No
+The Muppet Movie,Comedy,7.6,32802,249295.19999999998,No
+The Muppet Movie,Family,7.6,32802,249295.19999999998,No
+Escape from Alcatraz,Action,7.6,121731,925155.6,No
+Escape from Alcatraz,Biography,7.6,121731,925155.6,No
+Escape from Alcatraz,Crime,7.6,121731,925155.6,No
+Watership Down,Animation,7.6,33656,255785.59999999998,No
+Watership Down,Adventure,7.6,33656,255785.59999999998,No
+Watership Down,Drama,7.6,33656,255785.59999999998,No
+Midnight Express,Biography,7.6,73662,559831.2,No
+Midnight Express,Crime,7.6,73662,559831.2,No
+Midnight Express,Drama,7.6,73662,559831.2,No
+Close Encounters of the Third Kind,Drama,7.6,184966,1405741.5999999999,No
+Close Encounters of the Third Kind,Sci-Fi,7.6,184966,1405741.5999999999,No
+The Long Goodbye,Comedy,7.6,26337,200161.19999999998,No
+The Long Goodbye,Crime,7.6,26337,200161.19999999998,No
+The Long Goodbye,Drama,7.6,26337,200161.19999999998,No
+Giù la testa,Drama,7.6,30144,229094.4,No
+Giù la testa,War,7.6,30144,229094.4,No
+Giù la testa,Western,7.6,30144,229094.4,No
+Kelly's Heroes,Adventure,7.6,45338,344568.8,No
+Kelly's Heroes,Comedy,7.6,45338,344568.8,No
+Kelly's Heroes,War,7.6,45338,344568.8,No
+The Jungle Book,Animation,7.6,166409,1264708.4,No
+The Jungle Book,Adventure,7.6,166409,1264708.4,No
+The Jungle Book,Family,7.6,166409,1264708.4,No
+Blowup,Drama,7.6,56513,429498.8,No
+Blowup,Mystery,7.6,56513,429498.8,No
+Blowup,Thriller,7.6,56513,429498.8,No
+A Hard Day's Night,Comedy,7.6,40351,306667.6,No
+A Hard Day's Night,Music,7.6,40351,306667.6,No
+A Hard Day's Night,Musical,7.6,40351,306667.6,No
+Breakfast at Tiffany's,Comedy,7.6,166544,1265734.4,No
+Breakfast at Tiffany's,Drama,7.6,166544,1265734.4,No
+Breakfast at Tiffany's,Romance,7.6,166544,1265734.4,No
+Giant,Drama,7.6,34075,258970.0,No
+Giant,Western,7.6,34075,258970.0,No
+From Here to Eternity,Drama,7.6,43374,329642.39999999997,No
+From Here to Eternity,Romance,7.6,43374,329642.39999999997,No
+From Here to Eternity,War,7.6,43374,329642.39999999997,No
+Lifeboat,Drama,7.6,26471,201179.59999999998,No
+Lifeboat,War,7.6,26471,201179.59999999998,No
+The 39 Steps,Crime,7.6,51853,394082.8,No
+The 39 Steps,Mystery,7.6,51853,394082.8,No
+The 39 Steps,Thriller,7.6,51853,394082.8,No
